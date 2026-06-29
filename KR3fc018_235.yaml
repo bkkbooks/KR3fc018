@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/235
+seq: 235
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ecaeb6185a993f6c9ca9854f52d6434927da0c0d3b3b24acadab3c7fda1322c0

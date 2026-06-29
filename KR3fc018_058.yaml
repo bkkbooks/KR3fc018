@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦自乘相消天元乘之與剔得三元之式今式相消得分為二地元云式相左半除之右半乘寄左以云式相以地元其右半左半乘除之得與左人易天位次相消求得前式以云式自之云式自與右半寄左左半之三
+  hash: sha256:8145b23acb1476129af1e2aadd99e201749ab3c0192811090f7bf0a6c59ecf3f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b182c9d1cb7f73667ad1cf73bf6db24d80ede1589dbd9d976b51fbd526474df8

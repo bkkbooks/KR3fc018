@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/238
+seq: 238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問方面圎周各幾何答曰圎周三十六歩方面一十二歩術曰立天元一為圎田周如積求之得一億四千五百一十七萬七千二百為正寔八十八為益方二十二萬六千六十五為益上亷八十八為正隅三乗方開之得圎周合問今有圎田各叚圎徔古法圎田積加方田面於上又方田積加圎田周內減上餘六十歩只云圎周方面相和四十八歩問圎周方面各幾何
+  hash: sha256:de7036682a415875ce83444b2960cce2225a66356ad92a067e53766968bdd3dd
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4b45b4799a75019e247d2a16340a8c86f7a6889c76127c3bb317a584cc4f6e4a

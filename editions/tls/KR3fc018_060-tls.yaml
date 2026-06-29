@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元之氏與左人易天相消得相消位後式前式左三行乗後式左行乗相後式右三行前式右二行消以天元乗左行乗前前式消之式右二行右二行乗相消得左式左前式左行左式行乗前式右以左式右行相二行乗前式右行消
+  hash: sha256:bdb7d854c1596271da5fc5f34238e720f0bb355cfd929a6ba9ae4d2ad7f80b84
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4bd6fd884a2d32f3018395cfdc8c7b0973a4a809f2c33119df90dadb8240d7f0

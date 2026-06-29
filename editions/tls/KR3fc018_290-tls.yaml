@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一千八十爲正實七十二爲益方上實下法而一得弦合問今有直積一百八歩只云五和五較相乗得三千七百八十歩問弦幾何答曰一十五歩術曰立天元一爲弦如積求之得七千九百七十四億九千三百六十五萬六百二十五爲益實七十五億二千二百八十四萬二千六百為従上亷二千五十二萬四十千九百九十五為益三亷一萬二千六百三十六爲従隅五乗方開
+  hash: sha256:3264d8f132792238564bed1f8d06980452a9d5ea6f3cbeb23bda1427e9b2ab59
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1f466ee9afb128de85d100e31d3bd19238e50bc3412012b049355ad965246055

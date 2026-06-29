@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/518
+seq: 518
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分六釐為正實一十寸為益方一寸為從隅平方開之得頂厚合問今有人買酒持錢一十二貫七百四十四文只云每瓶納稅八十五文又共與用錢一百二十六文無錢納官准酒九瓶問共酒及瓶價各幾何答曰共酒三十六瓶瓶價三百五十四文術曰立天元一為瓶價如積求之得一十二萬三百六十為益實一十四為益方一為正隅平方開之得瓶價合問
+  hash: sha256:c27098d370f752d3c204a31c2b4db372322883d62af944883e2d103c77d4cba7
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0e1253198607b07c4ed2efed93914fc9294c0000ff3b3563e6d64ede24a5d9ac

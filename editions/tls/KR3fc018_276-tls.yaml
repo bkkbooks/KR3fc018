@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/276
+seq: 276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得九歩合問今有直積一十二歩只云句弦和八歩問弦較和幾何答曰六歩術曰立天元一爲弦較和如積求之得七十二爲正實七十二爲益方一十六爲從亷一爲益隅立方開之合問今有直積一十二歩只云句弦和八歩問弦和和幾何答曰一十二歩
+  hash: sha256:df86f4267604c7f264c0f43d1b5b417adde88ac7754d4f92758c04f6da6cf722
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ec4aaa602d29a3bc89240f52e1a36da3179a12fa7638e2d6b456b6e3a1183f26

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/254
+seq: 254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰七步一百五十七分步之一百五十一術曰立天元一為徽圎徑如積求之得一百五十六萬二千五百為益實二萬四千六百四十九為從隅平方開之不盡以連枝同體術求之今有平圎積四十五步一十一分步之九問為密圎周幾何答曰二十四步術曰立天元一為密圎周如積求之得五百七十六為益實一為正隅平方開之合問今有平圎積四十五步一十一分步之九問為密
+  hash: sha256:78b70e84c4c3f03f0f58441c7f4a5db77f62f025bb4fd6ebadea71277dde72a4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:8241f2122d608724d47789fb1524a7b03833dd6f4043feee5ec84e3eaaf0ae16

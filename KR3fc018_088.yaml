@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 共不及一長四步問長平各幾何答曰平一十六步長二十四步術曰立天元一為長如積求之得二萬九千八十八為益實一百三十二為從方五十一為益廉四為正隅立方開之得長合問今有積幂減平餘一萬一千六百五十五步只云長四分之一平三分之一和二分之一共得一十六步二分步之一問長平各幾何答曰平九步長一十二步
+  hash: sha256:43938744f19e0a5189d6e91a0ec730b57358f63462c61b59c71df563dc37d5f6
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:35e8928920f73e049f892718552f96e7953ef1fda753b48b401d67da3d07362d

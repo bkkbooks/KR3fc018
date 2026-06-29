@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/580
+seq: 580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直積三乘方開之以平而一所得少平三步只云長以平方開之不及長八分之七問長平各幾何答曰平四步長六十四步術曰立天元一為平地元一為長天地配合求之得六十四為益實八十一為従二亷一百八為益三亷五十四為従四亷一十二為益下亷一為正隅六乗方開之得平合問今有直積减小平加小較以大平乘這如大長而一得數减小平餘有九案问數不合黨有錯步只云平羃
+  hash: sha256:10756a2073d6086d9cca2c5d1d8d640653b6c8829f3f4c895984a58a861f673e
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:8c0dc9cd485a509f8d298b4a176f06b2218e51ec44cdcb867b0224f12c325303

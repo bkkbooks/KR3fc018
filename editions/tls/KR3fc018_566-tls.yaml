@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/566
+seq: 566
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一得七步只云較羃加長與平羃同問長平各幾何答曰平八步長一十五步術曰立天元一為長地元一為平天地配合求之得一十五為益實一為從方上實下法而一得長合問今有直田平羃减一和六較餘與長等只云較羃加一平减四較亦與長等問長平各幾何答曰平八步長一十三步
+  hash: sha256:ddc76efa446dbd0230e22ffe014f290cf325c613a3869341fc1ab02bf0c7e192
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:6ec45e2f2daa88767cab4b901cbb7cad99a3997c65bc456d7317555d7fb60c0e

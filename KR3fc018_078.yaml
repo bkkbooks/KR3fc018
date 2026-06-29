@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寓燕松庭朱世傑漢卿編述臨川琴屋鐘燁叔明較正直段求源十八問今有弦和和乘三相和加弦羃共得一百六十九步只云弦較較乘弦較和減股弦和乘股弦較餘一十五步問句幾何答曰三步術曰立天元一為句如積求之得二十五萬三千一百二十五為正實八十一萬八千一百為
+  hash: sha256:72a4d9e08f59f29b9c417812eac6c96948c036a976b73d121ddf19163df3e5c1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:206c0200a314c97bb4fefe6d4ac1bd6acb13ebe830f2c93573cacc6d887ecb8e

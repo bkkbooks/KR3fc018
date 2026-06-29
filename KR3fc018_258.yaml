@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/258
+seq: 258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有立圎積九百七十二尺問為古立圎周幾何答曰三丈六尺術曰立天元一為古立圎周如積求之得四萬六千六百五十六為益實一為正隅立方開之得三丈六尺合問今有立圓積九百二十八尺一百五十七分尺之一百四問為徽立圎徑幾何答曰一丈二尺術曰立天元一為徽立圎徑如積求之得一千七百二十八為益實一為正隅立方開之合問
+  hash: sha256:f7ab137696b27b6dfc225f03a920c8ed2c9b2a97877afceb845501d60b9ee458
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0c75b9dc2cd64b2883e48e6a57f3ff5452b3c8d7baf503a12881c9964bf0d12b

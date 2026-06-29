@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/430
+seq: 430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 闊一箇問上下長闊及髙各幾何答曰上長四箇下長八箇下闊五箇髙五箇術曰立天元一為上長如積求之得一百二十為益實二為從方五為益上廉一為益下廉一為正隅三乘方開之合問今有圓錐果子一所令甲乙丙分之甲分五百八箇乙分四百一箇丙分二百一十五箇從上給丙次中給乙次下與甲問各分層數幾何
+  hash: sha256:3cc9e08deb49369579e50562ec3315ce734209ea7182776d60319b694f0bc37b
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:469804d2f9075150d2e780317e3ae46b6bd9cfbdec527b63d2a63fb782960ccc

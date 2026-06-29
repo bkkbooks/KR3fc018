@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古法七椉方圗
+  hash: sha256:20436d1d81d40644872dd43fdbbe6dcede00914f277e8851c893708fdbd55dbd
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b5aef167e977759e0eb68a424ddaefd721a8a4829c51574d772710eff0e1daa8

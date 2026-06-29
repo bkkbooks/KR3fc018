@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/586
+seq: 586
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十為益九亷八為従隅十乘方開之得句三步合法前問三才變通一十一問今有直積减弦較和加股弦較羃與弦較較羃等只云句羃减三相和與弦較和同問弦幾何答曰一十七步術曰立天元一為句地元一為股人元一為弦三才相配求之得三十四為正實一十九為益方一為正隅平方開之得弦合問
+  hash: sha256:b274e331a243f3a1422ea12520436ccd318f15efa63002bd167eb8d640139622
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:3c025a017cfad6f27d91d122aca8030becf5426e0d43db8ba0f53ccc5b25117f

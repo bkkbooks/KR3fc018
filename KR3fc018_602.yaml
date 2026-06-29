@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/602
+seq: 602
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以股除之加句股和以股乘之加股以句除之减二股一句股較與句等只云句乘股羃以股除之加直積减句羃以句除之與弦同問五較連環除弦乘之相和得幾何答曰六步術曰立天元一為句地元一為股人元一為開數三才相配求之得三才十為正實四十一為益方六為正隅平方開之合問今有直積减句股和以句乘之加句股較减直積
+  hash: sha256:42d009f924323c9df410a49fca23d580fe41684d5d3c366c4097db73b0a9d972
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:6be4f9f8f4ed8d55cfdedb0d4ea6c681fb3e45ae30338e0951f30010448af72a

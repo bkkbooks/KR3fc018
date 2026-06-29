@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/582
+seq: 582
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加大較如大長而一加大長得八步問長平各幾何答曰平三步長六步術曰立天元一為平地元一為長天地配合求之得五萬六百八十八為益實一千七百二十八為從方一萬七千一百五十二為從上亷一千七百七十六為益二亷一千二百八為益三亷四百九十一為從四亷一百七十為益五亷五十三為益六亷二十七為從七亷二為從八亷下為益隅九乘方開之得平合問
+  hash: sha256:531afd87289fa5b21fbcd6188c72eebf464fd4ef13f40e5d15e4e50e0f234afe
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d4d581a5d615c5842dc5e03aa838c709e91422029830a5780920718a571a9c32

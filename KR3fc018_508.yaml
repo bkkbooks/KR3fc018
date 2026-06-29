@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/508
+seq: 508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六步又句弦和三句弦較二股弦較一為共內减股弦和二餘五十五步又股弦和二句弦較一股弦較三為共內减句弦和三餘二十八步問句股弦各幾何答曰句一十二步股三十五步弦三十七步術曰如方程正負術入之左行得股弦次行得句弦較次行得股弦和右行得句弦和立天元一為句如積求之得一百四十四為
+  hash: sha256:a0a99fd4716679c869ba286d24afc0552c22dc212b7836833da0999e9c93e12f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:581eca1dfa1c523c4f02998a7b511b86fb66a1e25824b3cdbc38a4a2a293d11a

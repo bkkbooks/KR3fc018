@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/628
+seq: 628
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四元之形象收則其緼照徹而明開則縱橫發揮而曲書妙埋理矣漢卿名世傑松庭其自號也周流四方復遊廣陵踵門而學者雲集大德巳亥編集算學啓蒙趙元鎮巳與之板而行矣元鎮者博雅之士也惠然又備巳財鳩工繡梓俾之茲行于世前成始而今成終也好事之德奚可量㢤二書相為表裏不其韙歟屬余為引余詳觀之有素所未嘗接於耳目者不用而用以之通非數而數以之成由是而知有數皆從無數中来髙邁於前賢能書以矣明算君子據余言試為細草然後知誠而不妄
+  hash: sha256:3fe595306da790f1838cd6ba569165264765a0c669a87a33f6f7274ed8a8c0a2
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2f889adc061658d8b9c3375b3c87811ce2cc5866d33377ad022a5ccbfc754939

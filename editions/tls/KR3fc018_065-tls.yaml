@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四象會元今有句股椉五較與弦羃加句椉弦等只云句除五和與股羃減句弦較同問黃方帶句股弦各幾何荅曰一十四步草曰立天元一為句地元一為股人元一為弦物元一為開數四象求得求得三和會求之求得今式云式元之式求得物四式和會消而剔之式云之式皆物易天位得前式
+  hash: sha256:0ddcb53a0f67b0d44e50c026d9166b9d39058f36cc843eeff3ba474904457944
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:cf34c0f4985d290c76b8c81a4d8f49b70bf64756756fb4744357d90ebba6e55b

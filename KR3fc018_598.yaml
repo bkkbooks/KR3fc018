@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/598
+seq: 598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以股除之加句股和以股乘之加股以句除之减二股一句股較與句等只云句乘股羃以股除之加直積減句羃以句除之與弦同問弦和和乘黃方得幾何答曰二十四步術曰立天元一為句地元一為股人元一為開數三才相配求之得六百為益實一千三百二十一為從方五十四為益隅平方開之合問今有直積减句股和以句乘之加句股較减直積以股除之加句股和以股乘之加股
+  hash: sha256:03819a4ecc783e9c69cbf0a36453e7e75a46e386d25e81bfae479208b60e7f19
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b1549ab096b86b170e50dbbeda87abb2b0ac3a3e63436f5cb65ca9056886fdeb

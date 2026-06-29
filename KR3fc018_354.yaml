@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/354
+seq: 354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平方開之得圎周合問撥換截田一十九問今有半種金田一段長五十步斜闊一十步與鄰對撥圭田一段只云併圭田長闊較為正實一十五為益方一為正隅平方開之少如較四步問圭田長闊各幾何答曰長二十五步闊一十六步術曰立天元一為半種金田之中股如積求之得二千四百為正實一百為從方五十為益隅
+  hash: sha256:20ae9bb7120fdcead7fc7adc1b2981d50fd9da6aef599364ebaeee68a3e403d7
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d6a631a96158b1d4f06a2753cabc0289eb692efa0c414bf8f0cd575cb577f877

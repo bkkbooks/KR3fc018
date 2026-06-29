@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/206
+seq: 206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百二為益實七千七百四為従方三百八十四為益隅平方開之得長不盡按之分法求之合問今有直積一百一十歩二分歩之一只云併一長二平三和四較共得一百一十歩一十二分歩之八問長平各幾何答曰平八歩三分歩之二長一十二歩四分歩之三術曰立天元一為平如積求之得一萬六百八為益實一千三百二十八為従方一千二為益隅平方開之得平不盡按之分術求之合問今有直積加平四分之一共得一百一十二歩三
+  hash: sha256:ffaf2557590d717a8ac18fd30ac4129d7d4da34b2121771c6d2978fd1afb491a
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0dfbfa2b5e9e8e6a8f86ea459ecd3c6abb87560f9534569b19d96cb661746f30

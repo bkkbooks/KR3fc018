@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 近阮先生己刋為中箱本僞錯一仍此本揚州羅茗香演為全草同時治此書者有戴金溪少寇徐啓卿學恃黎見山大令
+  hash: sha256:b922615056537c0745be69e402f334a0a95f2989ebd4c19a1c45a9552b9fd767
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d3b5cc3cd9fd11c921574877f72af43620eb7b61b2aea3e0bfa88498f71b156b

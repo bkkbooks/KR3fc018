@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/472
+seq: 472
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方數合問今有圎田一段內有圎池池中後有圎亭臺各占之三積共九千五百四尺只云一池二周皆以平方開之相併自之與外田周等其臺周開方數如池周開方數二分之一不及臺髙二尺問三圎周及臺髙各幾何答曰田周三百二十四尺池周一百四十四尺臺周三丈六尺臺髙八尺術曰立天元一為臺髙如積求之得一十一萬
+  hash: sha256:c0930eda2f183164a4e4c2a804c38cc6dcc939e0fca88bdad60b5a2f8a03b2be
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:91ba859a8279f770d528ac689c322488a886ec280acec8c80df9983156b7e23c

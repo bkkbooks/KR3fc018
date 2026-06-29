@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/456
+seq: 456
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長三十二步問水靣闊幾何答曰二十四步術曰立天元一為水靣闊如積求之得五百七十六為益實益為從隅平方開之得水靣闊合問今有方田一段靠西北隅有結角方池占之餘積四千步只云從田東南隅斜至池楞六十八步八分問田池各方幾何答曰池方十五步四方六十五步術曰立天元一為池方如積求之得
+  hash: sha256:e1baf01320aeb364e0ec2a949b202f69edeab7fff384df874e685f888e05ff91
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:bf4df2c6a9489d6a8f96acd4b090c92d815658d6c0c087e78347c7e10bc2e01a

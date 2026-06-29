@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/350
+seq: 350
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周太平與方箭外周弦平強半等問方圎周各幾何荅曰圎周一十八隻方周一十六隻術曰立天元一爲圎箭外周如積求之得一萬九千四百四十爲益實三百六爲従方四十三爲従隅平方開之得圎周合問今有方圎箭各一朿共積二百八十一隻只云圎周四分之一及方周七分之五八隻問方圎周各幾何答曰方周二十八隻圎周四十八隻
+  hash: sha256:88707a630639af775b7e9aafd01ae194f6f3e66ce911fd5c430df3a474a13d59
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ca5db4c9b8e25b8762dfb1aa88b38edf9161e99ea1fe0ed12a68d76f46702eb2

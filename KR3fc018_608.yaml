@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/608
+seq: 608
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九為益五亷二百三十三為益六亷六百七十為從七亷三十六為從八亷八十二爲益九亷二為益十亷四為正隅十一乘方開之合問四象朝元六問今有五平三長立方開之少股一步只云三和四較平方開之多句二步問弦較較帶黃方二事連環得幾何答曰六步術曰立天元一為句地元一為股人元一為弦物元一為開數四象和會求之得三萬九十三
+  hash: sha256:e9a17a33c9497f82c574ec2d1928312c06f5a7441e1e304e44b56fdcf31d8c2e
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1a72b43a1159ccd5c365c14ed7fb1198b4fd29893998e9ba64fbd041511b5f02

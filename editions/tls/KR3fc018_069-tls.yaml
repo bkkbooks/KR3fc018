@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/69
+seq: 69
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相消得為今式次置句股和句弦和股弦和弦和和弦較和併之以句除與股羃減消得之得句弦較相云式併句羃股羃與弦羃倍句倍股併之與相消得三元之式物元相消得物之之云式右行與云式物式乗今式得相消得易天物元之相又位式自乗消倍
+  hash: sha256:a3f63464c6f8dd40309fc2d0be1567fa3d86920b0efe45a92b9d5025ad7bd001
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:04d49ef46cffc14a204dbef579fd9682a8d73682541bc24b7a3dec76bb24fca6

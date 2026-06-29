@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/380
+seq: 380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四爲従上廉二百九十六爲従下廉五爲益隅三乘方開之得截矢二步自之以減倍積餘以矢除之即弦合問今有圎田一段周二百六十七步今従邊截一弧計積一千三百一十二步中半步問截弦矢各幾何答曰截矢二十五步截弦八十步術曰立天元一爲截矢如積求之得六百八十九萬六百二十五爲正實五千二百五十爲益上廉三百五十六爲益下㢘五爲正隅
+  hash: sha256:c9bfb49d206a826426eb7478e34d32e035004d158acfedc28ee65703ae7ec747
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:7dfc04f3514a31bd1e143e5041888cc6cc8714368ab3e152e91222b323ee4c23

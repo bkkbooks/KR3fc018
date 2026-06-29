@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/366
+seq: 366
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四為益實一為正隅平方開之得截長合問今有圭田一段長一百二十步闊四十八步今欲從闊截賣七畞七十五步問截長闊各幾何答曰截長四十五步截闊三十步術曰立天元一為截長如積求之得一千七百五十五為益實四十八為從方二分為益隅平方開之得截長合問今有圭田段長一百七十四步闊五十八步今從東竪截句股積三百三十七步
+  hash: sha256:1c873e737819c1d1763e32d1c8c92e5392a7ce8c2d52ba47dfe7e457379b526d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:c005adbc55505d2ff58dfdb7a05fa5f796d4d966ab8bbd9b00a8e980f6d37fee

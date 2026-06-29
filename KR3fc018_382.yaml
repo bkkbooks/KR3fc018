@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/382
+seq: 382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三乘方開之得截矢合問今有圎田一段徑九十步甲乙共截一弧其甲從邉復截一弧以次給乙甲截積二百八十三步二分步之一乙截積五百二十六步二分步之一問甲乙各截弦矢幾何答曰甲截矢九步截弦五十四步乙截矢九步截弦七十二步術曰立天元一為甲截矢如積求之得三十二萬一千四百八十九為正實一千一百三十四
+  hash: sha256:e59fd8477eb5eae77db93d131a95b4d660d3c041ee7dc1448506c9364613a8a9
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d83add3aa98e53b03ae393fc1f281700db37c7bbeabd56843eb41e9eb76410f3

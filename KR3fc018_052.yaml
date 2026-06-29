@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得與左半同相消之為云式與半之得以右式消今今式相消左式式得左式對列內外二式行得行得相消得如法開之得四平方式步即股也合問
+  hash: sha256:4f327ab7e5f37cd36921934798a2145e7ee203b133a4a0c69ab21e6598466beb
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2eaf877c28777f089b01913746688c5762dc2bf6c6e1f1ee1f7231c0240c4202

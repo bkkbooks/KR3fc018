@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/516
+seq: 516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為平方靣如積求之得三百九十為益實三十二為從方一十六為益亷五為從隅立方開之得平方靣又立天元一為立方靣如積求之得三百四十八為益實二十九為從方一十四為從亷五為從隅立方開之得立方面合問雜範類會一十三問今有沉香立圓毬一隻徑一尺今從頂截周八寸答曰四分問厚幾何答曰二分術曰立天元一為截頂厚如積求之得一寸九
+  hash: sha256:2d46b69643cebf043cf99c2964b8fce17f71c892534ecd70e73dc8f704b9751d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:6f248e0b6a3052cffa9ab6d8e675982373f32aafdae863fc5050424c0b68bf8f

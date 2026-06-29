@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/564
+seq: 564
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一十八為正實二十七為益方四為從亷一為從隅立方開之得平合問今有直積加二平减三較餘一十五步只云長取強半平取少半與和七分之四等問長平各幾何答曰平三步長四步術曰立天元一為平地元一為長天地配合求之得四十五為盜實三為從方四為從隅平方開之得平合問今有直積以長乘之用平除之所得减積如長而
+  hash: sha256:0e22e60df79a0c54f49708657fda9c903afe181015f724c9c3c08d9aedbadbf9
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:e15c6d45cc9bc13d0f76c012f62dcde4079d20b2d8371db677909bdd3d86a0a7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/330
+seq: 330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五至隅頭借問長平数目事答曰長一十六步闊一十五步術曰立天元一爲長地元一爲平天地配合求之得五萬七十六百爲正實二千八百八十爲益方一百七十三爲益上廉八爲一益下廉一爲正隅三乘方開之得長又立天元一爲闊地元一爲長天地配合求之得五萬七十六百爲正實一千九百二十爲益方一百七十三爲益上廉一十二爲益下廉一爲正隅三乘方開之得闊合問
+  hash: sha256:f80c41d072013efe6c61033cee49a7d353c26ff571a9d2ec860b32cb44a05a0d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0bbe8aecffce5e134c949a80070fbfebfd25224cb52a4fbb70e0be23649a65e2

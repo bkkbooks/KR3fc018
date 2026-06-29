@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/176
+seq: 176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰下外方一十里一十步內方一十里廣二丈五尺上外方一十里六步內方一十里二步廣一丈髙三丈六尺池深二丈五尺五寸二千四百六十七分寸之四百八十三興功五十一日一千一百二十五分日之四百七十三術曰立天元一為下廣如積求之得四十一萬二千三百四十八為益實一萬一千一百四十八步六分為從方一萬四千八百九十八步二分為從上亷一百三十一步八分為益下亷一為正隅三乘方開之得下廣余依加减求之求池深
+  hash: sha256:afb581667e4b8eb5d1a0587d2f253f0abfe42fcff00f33c460af782d59045ada
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:7f370ac4cb549b953d4204e13a85f7ead24145539ec4760b2e24a17d3f63def3

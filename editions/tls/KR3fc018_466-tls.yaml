@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/466
+seq: 466
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有圎田一段圎従古法上有圎池圎従甯率中有直池池邊下有方池各占之餘積一千八百六十八步四分九釐五毫二絲只云七池方靣不及一直池長五步四分四釐却多三直池闊二步二分四釐方池靣圎池周和舍得三十步直池斜與方池羃等問田池周徑長阔各幾何羅本空一文補之答曰圎田徑六十四步圎池周二十二步直池長六十一步四分四釐阔一十七步九分二釐
+  hash: sha256:6d021c2b8f05bbe3ce2fb0fd0dbae37cf5cc06352659c27da3f4dd15430b7521
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:fb87fac5103c911cd91b2ec58250fb48f410e042fcb96d7218e7a909134a0d7b

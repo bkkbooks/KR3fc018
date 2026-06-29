@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/560
+seq: 560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直積加小和小較减大和大較餘五十二步只云大長加小和小較平方開之不及大平二步問長平各幾何答曰平六步長一十二步術曰立天元一為平地元一為長天地配合求之得九十六為正實六十八為從方一十四為益上亷六為從下亷一為益隅三來方開之得平合問今有直田長自乗减和餘九步只云平自乘减較餘八步問長平各幾何
+  hash: sha256:8138762a0802568e735ed73d9a1c63390a38973d8834b2ee55981bb6fb08e3f9
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:89aca073d34f4335c0da59ac138f1b7367ca112d3b130b01d958c59ff1a01d9d

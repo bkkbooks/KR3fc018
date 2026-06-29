@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/118
+seq: 118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減靣問幂餘二萬一千二百八十三闊步五分步之一問每靣闊幾何答曰一十二步術曰立天元一為每靣之闊如積求之得一十得萬六千四百一十六為益實一十九為從上廉五為正隅三乘方開得每靣之闊也今有三廣田積加中廣二分之一減大廣三分之二又加小廣四分之三減正長六分之五餘以正長中半乘之得一萬五千八百八十八步只云併三廣正長
+  hash: sha256:47bfe139a1550b3aea87230a662a8fc9bb4f88623b8586b678874e695c0a7634
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ed41913af3602a92b3b852c7c99b6cd9c606aa4e2b86f7589593daf5114452b0

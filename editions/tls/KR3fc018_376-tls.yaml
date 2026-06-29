@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/376
+seq: 376
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲截長一百五步截闊七十一步乙截長六十五步截闊八十四步丙截長二十五步截闊八十九步丁截長一十五步截闊九十二步術曰立天元一爲甲截長如積求之得六萬三千五百二十五爲益實五百爲従方一爲従隅平方開之得甲截長又立天元一爲乙截長如積求之得一萬七十五爲益實一百四十二爲従方二分爲従隅平方開之得乙截長又立天元一爲丙截長如積求之得四千三百二
+  hash: sha256:b180e3f901bbf308d4ca9ee92f0ef96c6215ff2a1507cbefed3e2df8c9d7478d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5e6dc9794d47dff1c0f21513f89977914c694896880968fb9d23d3cf1a5502c2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/490
+seq: 490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 取弱半共得三十二斗又米取太半麥取中半豆取太半共得三十七斗其米斗價取三分之一麥斗價取八分之五豆斗價取二分之一共得八十七文又豆麥斗價和得一百一十文麥斗價少如米斗價八文問三色及斗價各幾何答曰米一碩六斗斗價七十二文麥一碩八斗斗價六十四文豆一碩四斗斗價四十六文
+  hash: sha256:302db57c2bcf3b0a18f9da1f397a235225f89abfb565cdda59391bc2ef82b735
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d52cb174d7bf7634abf52d76a5d3023ed0bee562a0289492e054345d689e083a

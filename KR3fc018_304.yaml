@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/304
+seq: 304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四步八分遙望城西北隅適與西表末相參合問城方去表去城各幾何答曰城方六里三百四十步去表一十里八十五步五分步之一術曰立天元一為城方如積求之得五千為正實二為邑益方上實下法而一得城方求表去城者入索乘北行去表以兩表相去除之得數為景差內减東去表餘以為法又北行去表內减景差餘乘東表退行為實實如法而一即表法去城之遠合問
+  hash: sha256:b5d1207df300f5ac0d732613d862bdba527aeee872ffd1b5878ca1bddfe27550
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:3162db6f0ffb144b924a7665c72bc1ceaf390bdcaabfc8ffb5dcfac955b00484

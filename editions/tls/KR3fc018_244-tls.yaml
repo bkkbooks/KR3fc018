@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益方九萬三千六百三十二為徔上亷四千七百四十一為益下亷七十七為徔隅三乗方開之得圎周合問今有方圎田各一叚圎徔古法方田積內减圎田積餘以圎田径乗之得四百三十二歩只云方田周虛加一算平方開之不及圎田径五歩問方面圎周各幾何答曰圎周三十六歩方面一十二歩術曰立天元一為圎田徑如積求之得六千九百一十二為益寔五百七十六為徔方四百八
+  hash: sha256:2574fee0b193f7fc658574472c684408549d42bbcf9fdc85edffd8d0cc906ef6
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:97d315a2f40196816bc60b597c57539c95acb20508def41c555c158134849dd9

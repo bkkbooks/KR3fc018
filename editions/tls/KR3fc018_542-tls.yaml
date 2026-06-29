@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/542
+seq: 542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二十步術曰立天元一為弦較和地元一為較天地配合求之得一萬四千四百為益實二百四十為從上亷一為益隅三乗方開之合問今有句股積三十步只云句股和一十七步問句股較幾何答曰七步術曰立天元一為句股較地元一為句天地配合求之得四十九為益實一為正隅平方開之得七步合問
+  hash: sha256:808e2e7151ed49ef98898c5bbe713beb385f7bb6170f375aa1f41e8c407eec67
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0952cc475581a6f504e4ea37c76e189b2236a0f62d62fcf11aea59c05292ad98

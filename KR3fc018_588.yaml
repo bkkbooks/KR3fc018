@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/588
+seq: 588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直積加黃方羃開方除之與倍之句弦較等只云弦較較羃减句股和開方除之與股少弦較同問三相和幾何答曰金天十元二一步為句地無一為股人元術曰立天元一為句地元一為股人元一為三相和三才相配求之得八百六十四為益實四千一百四為益方四萬二千二百二十八為從上亷五萬三千九百九十八為益下亷四千二百九為從隅三乘方開之合問今有平乘積如長而一所得减一平三較餘與平
+  hash: sha256:608f3f258b1eb719d0ee56b71d99e3c120290881549133eec5b8e6e0c89306fa
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:47567b63c1e9481fda872e79fc8ba81451c0c17039845dbdbfeabb197f8e6092

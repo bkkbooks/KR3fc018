@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/71
+seq: 71
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物元之又六因物元又以式消之之式消之得物元之式消之乃剔今式自與三元之消得前式為二其一之式相消得寄左自與左又與倍其之相消物元之式相物易天位便為左行倍消得得後式以消前式之又以物元又二十一因物倍之五之式消之元之式消之得因物元
+  hash: sha256:b33416d097f6cb4b801fac1c186ed36a42d751ac2e0b5597683726987d217882
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4bebdf7e11ead4e90f01351577abe4fce644715b7a022f083036a6c77ce66236

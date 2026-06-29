@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡皆四元者以明理為務必達乘除升降進退之理乃盡性窮源之學也僕立句三股四弦五黃方二為問併之得自乘為羃得共計一十六段計羃一百九十六步此式考圗認之其理顯然
+  hash: sha256:a0325d013dc379e269e96729498ab43bff9d7c75f76f74603a69f4877965d1d1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:e74925f68a83c18f9695ed0edd96334b92c42444c2f7c777da73fc056c328122

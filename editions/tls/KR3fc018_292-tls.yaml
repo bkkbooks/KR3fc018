@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/292
+seq: 292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得弦合問句股測望八問今有直邑不知大小各中開門只云南門外二百四十歩有塔人出西門行一百八十歩見塔復抺邑西南隅行一里二百四十歩恰至塔所問邑長闊各幾何答曰長一里一百二十歩闊一里術曰立天元一爲邑半長如積求之得一十八億六千六百二十四萬為正實一千五百五十五萬二千為従方二十七萬爲益上亷四百八
+  hash: sha256:518b350d9038fd714f7ad4b774326ddfdcfc9210c7fbbfc5a2ba2602dae27245
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d273724fb79b8e5f0d04e88363fcbf1df2316764d7ebc638e2ecd6c689dc1a42

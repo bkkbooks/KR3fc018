@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/280
+seq: 280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上亷一爲従隅三乗方開之合問今有直積一百二十歩只云弦較較乗弦和較得六十歩問黄方幾何答曰六歩術曰立天元一爲黄方如積求之得三十六爲益實一爲従隅平方開之合問今有直積一百六十八歩只云句弦較乗弦和較得一百八歩問句弦較幾何答曰一十八歩術曰立天元一爲句弦較如積求之得一萬四
+  hash: sha256:6ec7778cdd8cc0a5a69c54af727dd5b8ea5b9044f86c3876d2756ceb205c86eb
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:38bf86a6f559feab6817d9d2a0d1b9bed3ce4aeb629cc711855bdccfe79e9d3f

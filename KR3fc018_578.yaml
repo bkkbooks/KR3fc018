@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/578
+seq: 578
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為從上亷二為從二亷八為從下亷二為益隅四乘方開之得長合問今有直積三乘方開之得數以平除之不及平三步只云長以平方開之多於平二分之一問長平各幾何答曰平四步長六十四步術曰立天元一為平地元一為長天地配合求之得四為正實八十一為益方一百八為從上亷五十四為益二亷一十二為從下亷一為益隅四乘方開之得平合問
+  hash: sha256:0b422ba765fb057b71e67c0d4f38a582f8e1eac336c0dab00ef2409dda81d919
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:e61357698b501850e36f0cbf218721f0e92e716228440c8603a38b9e25c29590

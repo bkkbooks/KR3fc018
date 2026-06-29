@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/234
+seq: 234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為方田靣如積求之得二萬七百三十六為益寔一為正隅開三乗方除之得方田靣一十二歩又立天元一為圎田周如積求之得一百六十七萬九千六百一十六為益寔一為正隅三乗方開之得圎田周合問今有方圎田各一叚圎後徽術共積二百四十七歩一百五十七分歩之二十九只云方靣自乗內加圓周共得一百八十歩問圎周方靣各幾何答曰圎周三十六歩方靣一十二歩
+  hash: sha256:e666b687ea44634b071474b47a248a895396a62a17a715801dd0139855a7863f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5de90e5a7d281aa2ef393760354dae62334e1e338192c1ca85018572343acf5a

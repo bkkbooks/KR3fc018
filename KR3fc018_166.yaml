@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六為從二亷九十六為益下亷四為從隅四乘方開之得倉闊又立天元一為囤周如積求之得二千三百萬一百一十二為益實三百八十六萬三千三百四十為從方二十六萬三百五十二為益上亷八千七百七十六為從二亷一百四十八為益下亷一為正隅四乘方開之得囤周又立天元一為囤髙如積求之得二百三十萬二千九百九十二為正實六十萬八百七十六為益方六萬三千三百六十為從上亷三千四百為益二亷九十二為從下亷一為益隅
+  hash: sha256:a84f5d399d0891aa71095623de2c9dbe770fc2126e95d85bd240cfdd91b7185e
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:f3997600995d74d1ed34d9ba32b32ddb80eb6e49a03797e1defb8a3498457cca

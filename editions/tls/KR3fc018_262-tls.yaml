@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/262
+seq: 262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二萬六千五百九十二為益寔一百八十九為徔隅立方開之合問今有立圎積九百二十七尺一十一分尺之九問為宻立圎周幾何答曰三丈六尺術曰立天元一為宻立圎周如積求之得四萬六千六百五十六為益寔一為正隅立方開之得三丈六尺合問今有平羃二百六十五尺問為平方面幾何答曰一十六尺一十一分尺之三
+  hash: sha256:0d5b7907378ff0cdfa16bfc9a177b8f2ad5036b87d75076180f5c2c4495b604b
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:45a1ff5ab592de085b5adbba9392495fb450310d82de5b6f3033ca9e1ed6ada1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/568
+seq: 568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為平地元一為工天地配合求之得一百二十為益實三十一為從方六為従亷一為益隅立方開之得平合問今有直積加和羃减較羃以平除之與積等只云長羃加二較减二差羃亦與積等問長平各幾何答曰平五步長一十二步術曰立天元一為長地元一為平天地配合求之得六十為益實一十七為從方一為益隅平方開之得長合問
+  hash: sha256:fcfdcaad6f0332220632633515c6bdd453b164dd9202e14932a6b204ba3b79f0
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:6dbffd99d8efaa28f8ded7b2ad882682e900944dd4b6c889f06cde08a3d60999

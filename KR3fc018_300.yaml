@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/300
+seq: 300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四十為正實四十為益方上實下法而一得城髙求表去城者以前表退行乘表間為實兩表退行差為法實如法而一合問今有方城上有戍樓不知髙逺立兩表齊髙一丈五尺表間相去八十步令前表與後表參相直人目髙四尺於前表退行三十步遙望樓岑與前表末參合復望樓足入表五尺六寸又從後表退行五十步遙望樓岑與後表末參合問城樓答各幾何
+  hash: sha256:902de2eaf4b4a0917ba4aa6f66195bc6b88ac62a87e044470eec7c6b2a8199ca
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:c0bc28890a09710f09dd58de248e44f2921cfa94a38fff2ae5f6e2b69be97431

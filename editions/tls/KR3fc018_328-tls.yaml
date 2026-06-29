@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/328
+seq: 328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 或問今有人来贖解本多利少難評共収四貫別無零説破源流即省本利各開方畢併之與日相停若還相減甚分明四十文差餘剩答曰本錢三貫六百文月利四十一文三分文之二兩箇月二十日利錢四百文術曰立天元一爲本錢地元一爲利錢天地配合求之得一百四十四萬爲益實四千爲従方一爲益隅平方開之得本錢餘依加減求之合問或問元有直田一畞地橫行六步竪行四斜行十
+  hash: sha256:ae526d8345f310c231dd202e11501448fbb416efa82e12ab9235542c766e2d02
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:80463da8253a40913ef345f78ca1303af5d521d1c963e8449d2aef9524bac76c

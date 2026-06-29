@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/440
+seq: 440
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 千二百七十二箇只云四角底靣乘三角底靣得四十八箇問各幾何答曰四角底靣四箇三角底靣十二箇術曰立天元一為四角底子如積求之得五萬五千二百九十六為正實三千四百五十六為從方四十八為從上廉一千二百七十二為益二廉一為從三廉三為從下廉二為從隅五乘方開之合問今有三角果子二所四角果子三所共積六百五十二箇只云三角底靣除四角
+  hash: sha256:cf3b766210b3229ce2cf317dfe53bf043eecc1dfebf94e244164ce9efacab0a4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0bfb966b17dc663208b6c04faba2c74bc545ec33ebe940fb2071b986e9a78521

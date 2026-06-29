@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/510
+seq: 510
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益實一為正隅平方開之得句立天元一為股如積求之得一千二百二十五為益實一為正隅平方開之得股立天元一為弦如積求之得一千三百六十九為益實一為正隅平方開之即弦合問今有平圎立圎平方立方各一所只云平圎積求九分之一立圎積取九分之二平方積取五分之三减立方積九分之八盈二尺又平圎積取九分之一立方積取九分之二立圎積取
+  hash: sha256:550357209fc79cd3082262d7b802bfe90003f5bada023c3efc25b0194c9f5617
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:bdd67aec4ddc5978d4870fbb48fb1c44960796657d2323fb9a6f07c91363a3b0

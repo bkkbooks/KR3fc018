@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/324
+seq: 324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一爲椽数如積求之得二千七十爲益實一爲益方一爲従隅平方開之得椽数又立天元一爲每株椽價如積求之得一萬八千六百三十爲益實三爲從方一爲正隅平方開之合問或問方城里週六十四假使金塼遍鋪地每條均鑄厚一寸長闊相和恰一尺寸金十五兩爲法尚帶零株一十八每塼計重十七斤一十五兩六銖答七絲二黍在其中共是一塼之重率長闊余
+  hash: sha256:76250606470328219513705c811075ad7c64b15656b2b902d94b596ff545417b
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ac1057ab7031b132b13f71765617c7075aa64571c13fcb756e01f416aa4f3a88

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/426
+seq: 426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為上靣箇數如積求之得六千九百四十一為益實九十五為益方六為従隅立方開之合問今有蒭童果子積八十二箇只云併下長上闊平方開之加入下闊共得八箇下闊不及下長二箇上闊如上長二分之一髙與長上同問上下長闊及髙各幾何答曰下闊五箇下長七箇髙四層上闊二箇
+  hash: sha256:aaeadd670369d35f154081829d458afd1d7941e4c84780bd697d14a997540ed1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:cdc634eec8ecc65dd72db372b3a508c1aed14887b6cb74b6b602f94d8b2c96f8

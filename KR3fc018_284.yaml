@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得一十八步問弦和和幾何答曰五十六步術曰立天元一為弦和和如積求之得三十千一百三十六為益實一為從隅平方開之合問今有直積一百八步只云弦較較乘句弦較得七十二步開弦和較幾何答曰六步術曰立天元一為弦和較如積求之得五千一百八十四為益實一百四十四為從隅平方開之合問
+  hash: sha256:bbc4ac43be9b024c0ffc2481a19bc567fa3314220bbd51baa8652933daceafd1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ae5469e5daa4d164bf46b8171877964113f4d073b9f42603d95dbb73eedabd54

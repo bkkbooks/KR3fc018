@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/370
+seq: 370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有句股田一段句闊五十七步股長九十五步今從句橫截地八畞三十七步半問截長闊各幾何答曰截長四十五步截闊三十步術曰立天元一爲截長如積求之得六千五百二十五爲正實一百九十爲益方一爲正隅平方開之得截長合問今有句股田一段句闊六十步股長一百五十步令甲乙丙三人分之甲截積二千九十步乙截積一千八百五十步
+  hash: sha256:b18459d6bdb43a5b8826376a085b93e72c3c3ef69b5c12d1663e1f33a0b82dd7
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:8717bb64a4f2e8d2fa567cdb56254fe653816fd0ddb240f945f52965174f44ef

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/538
+seq: 538
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰一十八步術曰立天元一為句弦和地元一為句天地配合求之得三千六百為益實三千七百六為益方七十一為益上亷三十四為從下亷一為益隅三乘方開之合問今有句股積三十步只云句股和一十七步問股弦和幾何答曰二十五步術曰立天元一為股弦和地元一為股天地配合求之得三千六百為正實三千七百六為從
+  hash: sha256:c98942a831a55cffe730cfeddb8647f65966a28f6f183792b754138c6a4894f4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5d1f710daa55be8d3bdb495e89318f32e48554a70efee8df77c08a5e209958df

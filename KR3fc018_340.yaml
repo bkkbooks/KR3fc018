@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/340
+seq: 340
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從三廉一為正隅四乘方開之合問今有茭草五萬三百八十八朿欲令嵐峯更落一形埵之問底子幾何答曰一十六朿術曰立天元一為嵐峯更落一底子如積求之得六百四萬六千五百六十為益實六為從方三十五為從上廉五十為從二廉二十五為從三廉四為正隅四乘方開之合問今有茭草一直錢二十五貫五百七十八文只云最上一朿直錢九文次下層層每
+  hash: sha256:1da45866b55105f77d3e56dd8bb13d027771e496b9daee457eb5b937490a6fe4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:9ed6afad56a732478c183ecace1ed9032a2d6ecaca358e9b8cdef8382eb6de4f

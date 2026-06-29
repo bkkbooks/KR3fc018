@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/502
+seq: 502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰如方程正負術入之左行得小斜中行得中斜左行求大斜立天元一為中股如積求之得一千二百九十六爲益實一為正隅平方開之得中股合問今有直田環田各一叚共一十三畝四分畝之一只云併環田外周一中周二實徑三與六箇直田斜相較之多六步又併外周二中周一直斜二與六十三箇實徑相較之少二步又併外周二實徑五直斜一與四箇中
+  hash: sha256:1dc9e80abe78deb527fa03e76b62554cc65457373a5c87d261a5a17922f16966
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a66bd908d2a9ad6f78b96c86288836e9e47e883c85a66a9b5e7ec5a97968cf6f

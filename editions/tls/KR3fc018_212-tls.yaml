@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亷二十四為從隅立方開之得平不盡按之分法求之合問今有直積自乗减和羃餘一萬一千七百五十一歩一百四十四分歩之八十三只云較不及平四歩一十二分歩之七問長平各幾何答曰平八歩三分歩之二長一十二歩四分歩之三術曰立天元一為平如積求之得一百六十九萬五千二百五十二為益實三千九百六十為従方一千七百二十九従上亷二千六百四十
+  hash: sha256:36a036fc5692c9d91a9b15255bee6d6eeeb8ba2a6b53adc513c62e178647eb95
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d95300a9639dbe9bc14746ebcc30f9545e4816649b704bbdef38311e0a5cfd90

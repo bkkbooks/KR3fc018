@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百為三寔六百七十六為益之亷一為三隅三乘方開之得長又立天元一為阔如積求之得五萬七千六百為益寔六百七十六為従之亷一為益隅三乘方開之得闊又立天元一為和如積求之得一千一百五十六為益寔一為三隅平方開之得和又立天元一為數如積求之得一百九十六為三实一為負隅平方開之得較合问或問我有一壺酒携着遊走遇務添一倍逢店飲㪷九店務經四處沒了壺中酒借
+  hash: sha256:5b9ca657eab5d64031004548246d64ed537eff25ad59943f69631b0f826218f2
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:57e4dfedce25b0aedb562e94913fc8f068bb09ce89766347cd4619c56d0329cd

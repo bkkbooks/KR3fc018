@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/184
+seq: 184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之長倍上長加下長以上廣乗之扵上又倍下長加上長以下廣乗之加上以髙乗之加如六而一得二大弧之積如每人常積除之得用徒求二小弧積及用徒者如前術入之即得合問今有造龍尾堤一所只云高多上廣二尺如下廣三分之二髙併上廣自乗不及袤九十六尺每人日程常積二十九尺用徒一千八百四十人即一日役畢問堤上下廣及髙袤各幾何
+  hash: sha256:ce5abec4036876ccccdb93ae633c6ad46bce4e60f3f21e913c558d9cd8678762
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:67cc9626d647d5a2c78ec8b7ce02cffadfbbf0ae50291e65277a4cda14d8553f

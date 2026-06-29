@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/310
+seq: 310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水上一尺無零葮蒲稍接水齊平借問三般怎定答曰水深一丈二尺蒲長一丈三尺葮長一丈五尺術曰立天元一爲水深如積求之得二千一百六十爲正實一百九十二爲益方一爲正隅平方開之合問又立天元一爲蒲長如積求之得二千三百五十三爲正實一百九十四爲益方一爲正隅平方開之合問又立天元一爲葮長如積求之得二千七百四十五爲正實一
+  hash: sha256:6cb84bcff2c15193f35a68915e7648f70b3e08c86d53dfb3fd184eef31b15fba
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:3f2ea8331d3ddb6ab7a1779319fb4352fb1950fb95263de68df8d4126a0bc1e0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百九十八為益方一為從隅平方開之合問或問務前聽得語云云新熟醇醨共一盆醇酒一升醉三客醨酒三升醉一人都來共飲十二㪷座中醉倒五十人借問四方能算者幾多醨酒幾多醇答曰醇酒三升七合半醉一十一人四分人之一醨酒一碩一斗六升二合半醉三十八人四分人之三術曰立天元一為醇酒數如積求之得三十為益實八為徔方上實下法而一得醇酒數又立天元一為醨酒數如積求之得九百三十為
+  hash: sha256:6774039446f762f16d62bb8492eb73dfc381d1c71d74d3755e2d34b816e6f4e4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:413acd78348db73a11f8909bad6dcb5abb3fc148d649b0dcba972e304f1d760f

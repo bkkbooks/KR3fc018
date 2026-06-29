@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/264
+seq: 264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為平方面如積求之得二百六十五為益寔一爲正隅平方開之不盡命分合問今有平方靣一十六尺一十一分尺之三問爲平羃幾何答曰二百六十五尺術曰立天元一為平羃如積求之得三萬二千六十五為益寔一百二十一為従方上寔下法今有立羃五百七十四尺問爲立方面幾何答曰八尺七分尺之二術曰立天元一爲立方面如積求之得五百七
+  hash: sha256:a2e8e5ba701aca9ee8387bc7bbd0387d0f545d5780c72761341dd49266f5ad95
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d4b2a7c8dff56e75a3fe0d411eed3524902eb11fdb3ff7724d3c895d1bdfd274

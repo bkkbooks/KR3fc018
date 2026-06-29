@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二步術曰立天元一為黃方如積求之得二百為益實一百為從方二為從廉一為益隅立方開之得黃方合問今有積加平幂減長幂以平幂乘之減和幂餘不及積幂八千四百六十步只云長平較三步問長平各幾何答曰平九步長一十二步術曰立天元一為長如積求之得八千五百三十二為正實一百二十三為益方五十九為從
+  hash: sha256:e49e1637f3f6ca935f54364099793aa3f0dff6aa354a55399c2009c472c3e300
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:fff882e7a72e2728cdb24bf8912af15d18e30307e45c174333d175c29c1a8a35

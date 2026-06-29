@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/554
+seq: 554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亷一百六十八為従下亷五為益隅三乗方開之合問今有句弦相乗比宜直積多三步只云股弦相乗比弦少五步問句股幾何答曰句三步股四步術曰立天元一為股地元一為股弦較天地配合求之得一十二為正實三為益方開無隅平方合問今有直積加平减二較以長乗之减積以平除之加二較共得一十五步三分步之一
+  hash: sha256:9c447f62f754265599cb5591744e6dc4f2f6b427cc875101cb5f381e5be2b5d9
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:e09c9cb1c4c5ce8408096108e0c8b508d8fc6e52490cbcd308c9f6276b42011e

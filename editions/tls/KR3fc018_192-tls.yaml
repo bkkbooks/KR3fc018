@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/192
+seq: 192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 髙為正實十為益方一為正隅平方開之所得再為實開平方除之少如先開方數中畢上方多如先開方數強半上下方和得三十八尺每人日程常積二十八尺每三人支錢二貫四百七十七文七分文之一用徒日悟倍令四日役畢問䑓上下方髙及逐日用徒支錢各幾何答曰上方一丈六尺下方二丈二尺髙二丈四尺初日二十人五分人之四錢一十七貫一百七十四文七分文之六
+  hash: sha256:e642a154162e1ca1271ad01a5e96b7511b83cfa07d9afb60a32a5b4c8d5cfe93
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:160cde4791bab3b6ac5141246c29587e1c701125ca47315babd3315c6b3b836a

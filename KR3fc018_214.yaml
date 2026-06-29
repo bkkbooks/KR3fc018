@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為四十為益下亷五百七十六為從隅三乘方開之得平不盡按之分法求之再得一百四萬二千八十四億五千二百八十一萬二千八百為益實二千三百三十七億三十六萬一百九十二為從方九千一百九十萬二千五百二十八為從上亷一萬五千七百九十二為從下亷一為正隅三乘方開之得三百八十四與分母約之合問新編四元玉鑑卷上
+  hash: sha256:ccfe6a4968b0d42c5e36d8164bbbd24ace75e230306334ecf83eb52101ceee71
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0b8035714a4b42522632de596d1b51ec3061e0b4e6678e3a00b90f6494fa1ec3

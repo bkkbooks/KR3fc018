@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/372
+seq: 372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙截積六百五步従南橫截一句股與乙従東竪截一句股與丙外剩直田一段與甲問三人各截長闊幾何答曰甲截長五十五步截闊三十八步乙截股九十五步截句三十八步丙截股五十五步截句二十二步術曰立天元一爲乙截句如積求之得一千四百四十四爲益實一爲正隅平方開之得乙截句即甲截闊又立天元一爲丙截股如積求之得
+  hash: sha256:94c3f00fd966759f4859edac29f4b608cdcde6e10d5eaaa422b581045aa4d7b3
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4c1425ac0af0b40e65f6970b034d6e705c5dba769e0219e1767d36dc0ce10da9

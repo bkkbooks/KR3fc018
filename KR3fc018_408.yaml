@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/408
+seq: 408
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子一十三箇加二即日數米求日術曰立天元一為三角嵐峯底子如積求之得五千三百六十七萬四千九百二十為益實七萬三千三百八十六為從方三萬六千七百三十五為從上廉七千九百五十為從二廉七百五為從下廉二十四為從隅四乘方開之得三角嵐峯底子一十三箇加二即日數合問求日術曰今有官司依立方招兵初招方面三尺次招方靣轉多一尺每人日支錢二百五十文已招二萬三千四百人支錢二萬三
+  hash: sha256:43f045a85edaf6923efabf5ab3fe56b958deca7cedcbd220d6af904fbd0c0882
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5d4e02fca141413e26e2068474fe0ddc234ebba58a0cc81b86bf4161af274427

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/428
+seq: 428
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上長四箇術曰立天元一為下闊如積求之得九十五萬三千一百九十為正實七十七萬二千三百六十八為益方二十五萬四千八百六十一為従上㢘四萬三千七百三十八為益二㢘四千一百一十二為従三㢘二百一為益四㢘四為正隅五椉方開之合問今有蒭童甍果子積一百箇只云併下長下闊及髙為共減二餘以平方開之與上長等下長多於上長中半上長不及下
+  hash: sha256:ddf51576568e37597cc8a086be25242ce1792ffe1d760f9f57f2a87924d4dbf8
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:406e011000793f2255b7633280a159ee94911e72bc86116ba7f9d19a6d0befa6

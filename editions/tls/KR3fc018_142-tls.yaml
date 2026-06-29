@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘內减端長二餘相併共得三千五百一十六尺只云端長多於匹長四分之一問端匹各長幾何答曰端長四丈八尺匹長三丈六尺術曰立天元一為端長如積求之得五萬六千二百五十六為益實二十八為益方二十五為正隅平方開之得端長合問今有絹一疋直錢一貫六百六十六文只云匹長如尺價五百四十四分之四百四十一問匹長尺價各幾何
+  hash: sha256:1dabeff724344e49c45499ecee037bac4749b9e736a412ecda5ae22c7f393cf1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a7a2b04c3a59cb3e5ffdb0ef455016a5cb7adf514eb31309aaceabc2cc5e3b55

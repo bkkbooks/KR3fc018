@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/550
+seq: 550
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求之得三千六百為正實一百六十九為益方一為正隅平方開之合問今有句股積三十步只云句股和一十七步問股羃幾何答曰一百四十四步術曰立天元一為股羃地元一為句天地配合求之得三千六百為益實一百六十九為從方一為益隅平方開之合問今有句股積三十步只云句股和一十七步問弦羃幾何
+  hash: sha256:c201c295413603fc5fd1d80e5b1c39e9a86dbacdeff3790d00a7fdcdb2e69a7d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b3ab6e395f5fb71ae4eb5735bb15ebb06e68676b6e332eac7b6511c119aa88a2

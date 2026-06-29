@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/414
+seq: 414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寓燕松庭朱氏傑漢卿編述臨川琴屋鐘燁叔明較正果疊藏二十問今有三角果子一所直錢一貫三百二十文只云従上一箇直錢二文次下層層每箇累貴一文問底子每靣幾何答曰九箇術曰立天元一為每靣底子如積求之得三萬一千六百八十為益實十為従方二十一為従
+  hash: sha256:4a5ded64063461b1e52eb0da1b10f2f08d2067b8e9fb791fec1b4bfc53416997
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b604876ef1fbb243bfb8dd0cb7d45d226a358a122770a7eac021bc7e9c9e82fb

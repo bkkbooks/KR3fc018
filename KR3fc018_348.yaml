@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/348
+seq: 348
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為方圎箭外周如積求之得五百七十六為益實一為正隅平方開之合問今有方圎箭各一朿共積九十七隻只云方箭外周如圎箭外周六分之五問方圎周各幾何答曰方周二十隻圎周二十四隻術曰立天元一為方箭外周如積求之得一十一萬四千為益實一千三百二十為從方二百一十九為從隅平方開之得方周合問今有方圎箭各一朿共積六十二隻只云圎外箭
+  hash: sha256:0ad40eae1de9f6750e413f5d671799c7352a5cec9176d137276d3b484642e271
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:cf0d6440501511aa135c3478596ebf39bf4eef23c338d111e95ed8065eabc87d

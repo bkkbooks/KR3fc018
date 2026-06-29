@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開之得匹長又立天元一為尺價如積求之得二千九百七十五為益實五十為益方一為正隅平方開之得尺價合問今有錢一百六十二貫五百六十文買布不知匹數只云每匹牙錢五文今無牙錢凖布二匹問共布及匹價各幾何答曰共布二百五十六匹匹價六百三十五文術曰立天元一為共布如積求之得六萬五千二十四為益實二為益方一為從隅平方開之得共布之數又立天元一為匹價如積求之
+  hash: sha256:e08059e8b09850a2a3918968661a5d0e5693f3c2bc04195fad4009c65d1c0d58
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:91bfb9ee68fc5d6de6339e9e26993a841d18d6f7b4eb26af81a1e62e49698233

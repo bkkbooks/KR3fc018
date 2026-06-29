@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昌平陳照讀癸未十月王萱鈴用箋重裝
+  hash: sha256:a9eabd2eed229c3ab0ea47337da22eef7350914c461accef6236d030fc999583
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:b0d14d14ed5ec58176240f7a61bd1023f16714f4062cc5c7cbb7d1a6b0c428e5

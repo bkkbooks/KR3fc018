@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元相減得弦較較以減股羃餘倍之寄左天元自乘地元除之得句弦較以減地元得倍句以天元乘之與左相消倍句自得等數求得今式之得四句兩元相加以倍句羃得弦和和減之得為弦較和加四句倍句倍四因之得羃寄左弦相乘
+  hash: sha256:fb2350ed4d2b76c66cd9de49c61d22ac25475bbf285a121a84d2697e229d83aa
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:463d83bd76fe8140cf12bf356073142ade73d70fbc6db53221bbd71bf2ccc3d3

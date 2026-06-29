@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之式消之與左行內二便為右行對列之行得外二行得內外二行相消三約得平方開之得一十四步即黃方帶句股弦也和問
+  hash: sha256:4736f7a232c1d4a8b62a7be226b258b07306ecf3a13e4759123c2fbb0e74ba31
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:05ad31dc57ed5f29459f2154b784e90d79c5b513f6adae5a706320ef56046084

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五較自乘演段之圗
+  hash: sha256:d6c28ad9b03b032a4689462b53d6a316ea4aadf7d30eef9655e0907e0b5e40ff
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2fd10fb0f12ae805e383ad2338dde403aeaed94e4432ecbdb0fa87523ff55414

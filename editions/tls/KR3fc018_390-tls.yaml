@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/390
+seq: 390
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一千六百爲益實一爲従隅平方開之得大圎徑四十步五之八而一即小圎徑又立天元一爲截小矢如積求之得四億三千二百九十一萬五千一百二十五爲正實四千一百四十三萬八百爲益方一千二百六十萬一千四百五十爲益上㢘二十二萬六千一百五十四爲益二㢘一十八萬七千五百一十一爲従三㢘五千七百二爲従四㢘七百五十三爲益五㢘一十四爲益下㢘一爲正隅七乘方開之得截小矢五步倍之以減小圎徑餘自之以截小圎
+  hash: sha256:808468f74e6f18a01445a4b4a9a80bf0a5e0903a49c0101ff806029309b33a15
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:34c3235347457d505c7bcfb5165420901048fde72d355a81df077e64b8bc1846

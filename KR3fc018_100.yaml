@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰答平七步長四十二步術曰立天元一為平如積求之得七萬八千四百一十四為益實五為益方二十六為從上廉二十為益二廉一十四為從三廉四為益下廉一為正隅五乘方開之得平合問今有積加平以長中半乘之得三千九百步只云長以平方開之所得不及平七步問長平各幾何答曰答平一十二步長二十五步術曰立天元一為平如積求之得七千八百為
+  hash: sha256:600fdea0c084252b2d1365427ca4220fe20299af94241f2dfdf148e118048863
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a8db345b527f1058f4b0f7afc40f7db355eafaa15267e22e2197cce745568d81

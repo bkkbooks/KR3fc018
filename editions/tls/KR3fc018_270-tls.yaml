@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/270
+seq: 270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寔二十八為益方二十為從亷一為益隅立方開之合問今有直積一十二歩只云句弦和八歩問弦和較幾何答曰二歩術曰立天元一為弦和較如積求之得七千二為正实七十二為益方一十六為從亷一為正隅立方開之合問今有直積一十二歩只云句弦和八歩問弦較較幾何
+  hash: sha256:af0cf4ab141d6a4dfa543306f65a11214ebfbeffdf526adad5c61d7df7a6303d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2c977615dd8d51d1cc4396518dabb30f44f77e5489b5a7fa48a110094f47dde6

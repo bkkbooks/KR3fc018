@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/540
+seq: 540
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方七十一為從上亷三十四為益下亷一為正隅三乗方開之合問今有句股積三十步只云句股和一十七步問弦和和幾何答曰三十步術曰立天元一為弦和和地元一為句天地配合求之得一百二十為正實三十四為益方一為正隅平方開之合問今有句股積三十步只云句股和一十七步問弦較和幾何
+  hash: sha256:af3ef3c367943e67e59d5f0d034c49407230987267ca7096ba184a1b34dc7f50
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0427d1a0c45f51afd98e83a6d2ca26b5640689f7986f32bd4b35589427caa0be

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為正實三十六為正方一為正隅平方開之得弦合問今有積減平以積椉之又減五平四積餘二十七萬九千六百三十步只云長取五分之一平取三分之二其長分子数如平分子数二分之一問長平各幾何答曰平一十八步長三十步術曰立天元一為平如積求之得五十萬三千三百四十步為益實九為益方一十二為益上㢘三為益下㢘五為正隅三椉方開之得平合
+  hash: sha256:8cbb7fd35b2057c1bfc4fc84a2d37f814058e2362093cdf35c25429e162b8089
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:c353d0789dbe12eb2f185f4618e2e15163e75375db9f1f9b9f3ed0acd1603c52

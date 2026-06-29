@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/196
+seq: 196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有句三步十分步之九股五步五分步之一問弦幾何答曰六步二分步之一術曰立天元一為弦如積求之得一十萬五千六百二十五為益實二千五百為從隅平方開之得弦不盡按連枝同體術求之合問今有股五步五分步之一弦六步二分步之一問句幾何答曰三步十分步之九術曰立天元一為句如積求之得一千五百二十一
+  hash: sha256:b4be4086fae702e80549c66a2623cb80136ae2b26f8ce3a3f503577d4e275bfb
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:9d711f547786077e6f8d617247ac4b74d675f42cdd7842944019f11565c4d764

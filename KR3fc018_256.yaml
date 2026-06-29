@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/256
+seq: 256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圎徑幾何答曰七步一十一分步之七術曰立天元一為密圎徑如積求之得七千五十六為益實一百二十一為從隅平方開之得七步不盡桉之分法求之合問今有立圎積九百七十二尺問為古立圎徑幾何答曰一丈二尺術曰立天元一為古立圎徑如積求之得一萬五千五百五十二為益實九為從隅立方開之得一丈二尺合問
+  hash: sha256:d39b14f0fa24d80f328761775196842c3b79e66f8b6d10ff88822565b1135281
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:ad78acda600fc1af319e6fca705301a6d6eb171d1076c168bc10f08bbfe6dccd

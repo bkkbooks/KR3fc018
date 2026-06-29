@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/536
+seq: 536
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問三事各幾何答曰立圎徑二十四尺立方靣二十八尺平方靣一十六尺術曰立天元一為立圎徑如積求之得一千二百九十五萬三千八十八為益實一百九十二為從亷九百二十九為從隅立方開之得立圎徑合問兩儀全轍一十二問今有句股積三十步只云句股和一十七步問句弦和幾何
+  hash: sha256:2526dc99a6efed07fe8b0bfbfc833f6303ed5daad62ac434a7543c1bb441ea02
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a5656155f1f58e8a0010641abe0bc8e80f9916da9f6e8f791830d33769007a1c

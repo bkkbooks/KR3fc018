@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/498
+seq: 498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦滿二斤半丙云得甲乙絲各三分之二亦滿二斤半其絲丙價取少半自乘內减太半兩價餘又自乘內加太半兩價共得二千八百二十二貫四百八十四文問絲及斤價各幾何答曰甲一斤半乙一斤二兩丙一十二兩斤價二貫一十六文術曰置絲通兩各以分母乘之如方程正負術入之左行得丙絲中行得乙絲右行得甲絲
+  hash: sha256:dd8645bae8579429a4dcd5e771b7c55970f60a183c5dee3096ff75c77e6b9b91
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d3dc6fa271c13eec00daee4d48d21eab20c2ecdb70ad4692cee6d04948e58356

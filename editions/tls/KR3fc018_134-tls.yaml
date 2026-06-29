@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二步一千八百一十五步只云博徑三步問池方田周各幾何荅曰池方一十八步田周九十步術曰立天元一為池方為積求之得四十八步四千七百七十六為益實以前八百四為従方四百二十四為従上㢘三十六為従下㢘一為徑隅三椉方開之得池方合問今有環田積實徑椉外周加之却見內周冪餘七百二十九步只云併內外周減二餘以平方開之所得不及實徑一步問
+  hash: sha256:d5156c4925319106d82dfaa2572502c800dce745533c8f556f9cf1d255bc8186
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:10b700be9fd6b2d6d23981fba462b74c3a78a788a202e3a64b463d216a5fe1ee

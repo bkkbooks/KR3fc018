@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/530
+seq: 530
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有圎材徑三尺只云鋸道長一尺八寸問深幾何答曰三寸術曰立天元一為鋸深如積求之得八十一為正實三十為益方一為正隅平方開之合問今有天上鴈三群地上鴈一群共三百一隻只云頭群次群共二百五十六隻又以次群除頭群所得加地上鴈與末群同地上鴈不及次群四十三隻問四群各幾何答曰頭群一百九十二隻次群六十四隻
+  hash: sha256:73e4f9d65313922b78b52ebcdf9267fd3ee2675e63aa34e3a2519fac4d76a29f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:af4a01e6ebf1b3019f38c00d893c8383e1ea52b74c43d670248b85aba7d82110

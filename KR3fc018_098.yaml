@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步只云平幂與較等問長平各幾何答曰平五步長三十步術曰立天元一為平如積求之得一十五萬五千八百五為益實九為益方七十四為從上廉一百六十二為從二廉九十九為從三廉一十八為從下廉一為正隅五乘方開之得平合問今有積加三平減一較餘自乘減三平加一較得七萬八千四百一十四步只云平自乘與和等問長平各幾何
+  hash: sha256:cff2269956857cbf315b49d9b070ec669075e29a7dff94cc01d57304934ac4ab
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:681cb9dd43e5a4a75ebba9aa42b6fb22c5976efcdba991f0d75072195304e895

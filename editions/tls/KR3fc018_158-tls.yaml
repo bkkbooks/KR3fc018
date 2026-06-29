@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/158
+seq: 158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尺又多囤圓徑三分之一却與囤髙等問倉囤髙深長廣各幾何按三分之一當作三分之二答曰倉廣一丈八尺長二丈二尺深一丈六尺囤徑一丈二尺髙一丈八尺周三丈六尺術曰立天元一為倉廣如積求之得一萬二千四百二十為益實一十二為益方三為從亷二為正隅立方開之得倉廣合問今有方倉四圓囤五受粟四千七百六十八斛只云倉長取中半自乘减七尺餘與囤
+  hash: sha256:8d00351588b5b64be3bc049786e474a9d11c0095dbfe32088ac2394cc11e36df
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4c476805bfc5c8b6304dab62d5fcff28c13b7b6daef00e37ba7cd3c8b36470f5

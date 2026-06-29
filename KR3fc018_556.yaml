@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/556
+seq: 556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 只云平羃减和與二較等問長平各幾何答曰平三步長四步術曰立天元一為長地元一為平天地配合求之得一千八百四十為益實一千六十為從方二百一十為從上亷五十四為益下亷九為益隅三乘方開之得長合問今有直積加句羃减股羃以平乘之减直積與平等只云和减三較以長除之與較同問長平各幾何
+  hash: sha256:3c7fa30bcda2a61c5008bf573a5c8e0cebc8be8cd43bcd3eb8417135de640251
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:e3f3305c7b9b08f272c02221d905bcc4d15e6f6b81b6b371198790cd1018aca8

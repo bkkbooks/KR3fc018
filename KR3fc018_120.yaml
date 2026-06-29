@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虛加二為實四為從方一為從廉一為從隅立方開之併入中廣與小廣適等又開方數如中廣三分之一大小廣差二步問長廣各幾何答曰小廣十六步中廣十二步大廣十八步正長四十八步術曰立天元一為開方數如積求之得一十九萬六百五十六為益實二百三十六為從方一千九為從上廉九百八為從二廉四百二十五
+  hash: sha256:de48e62430a1dccbcebafa25fab240480a2a16d9997363c4edda80922203c1b3
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:968c9c5af044caf2a669cd7b1ee47cb031d6c60949d36590a09a517226f80ff4

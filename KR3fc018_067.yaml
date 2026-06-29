@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後便為左行以便為右行式左行消前式內二行得式外二行得式內外二行相消三約得開方式平方開之得一十四步合前問細草曰立天元一為句地元一為股人元一為弦物元一為開數先置句股較句弦較股弦較弦較較弦和較併之得乘股以弦除之得寄左弦羃加句乘弦赤以弦除之得與左
+  hash: sha256:8d718631ca6eb6c7b115a7a7edfc902c36d405b7f1e39f5217e0ab4d0de15cc2
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d86f637a4efb0bc06a0e3367cd045138e0ca01ac1202e182b337983a43a37e97

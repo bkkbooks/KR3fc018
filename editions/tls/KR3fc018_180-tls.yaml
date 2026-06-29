@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得數為法實如法而一合問今有仰觀䑓一所計積一萬八千五百二十八尺只云併上下袤為實平方開之得數减扵上廣不及一丈三尺却扵上下袤差同又如髙三分之乙上下廣差六尺欲興功補為圓䑓上下斜表長就為圓徑限一日畢役每人常積二十七尺問上下廣袤及高大小四段弧積用徒各幾何答曰上廣二丈一尺下廣二丈七尺上袤二丈八尺
+  hash: sha256:94ae8fc0d402eb4da11553897017bdccf383e4d8e56a868241dba783180f6e54
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:bd3578f4cd9dad7601e19420b6fbbe2f47250fa1a92be9fcea3f3e2eb9ab711f

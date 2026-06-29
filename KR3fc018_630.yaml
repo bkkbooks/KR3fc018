@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/630
+seq: 630
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也於是乎書大德登科二月甲子滹約心齊祖暊季賢序道灮癸未三月從王北堂獲見此書許借録副先勒名卷末以志欣幸邵陽魏原識甲甲十二月十六日徐星伯借鈔畢是衣雪重獲此書燈下對之一大快事嘉慶草四年七月從順德黎見山鈔
+  hash: sha256:b785c6dd70d83d8e186ca8928e683883c47652d8106252229c54ca76e4dd58fd
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2fe6c4c03d16caaa13dfcfd19dfadd5d5077be77610147a77ec0aa7ec58237b4

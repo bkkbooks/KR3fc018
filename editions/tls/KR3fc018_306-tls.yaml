@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/306
+seq: 306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有營居山頂巌底有泉欲汲而不知其深偃矩山上令句髙四尺従句端望泉入下股六尺又設重矩於上其矩間相去一丈六尺更從句端望泉入上股五尺六寸問巌深幾何答曰巌深二十二丈術曰立天元一爲巌深如積求之得二十二尺爲正益實一寸爲從方上實下法而一即巌深合問今有登山臨邑不知門髙偃矩山上令句髙三尺斜望門額入下股四尺八寸復望門
+  hash: sha256:0399c4ac3deefadb26ed4c661d568ab465943f9506ba51ca997ad9df16f2e66f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:df04321701b429e00ea8d2b0891a9bccb94805ffa4962dfc21b0dbddb9966911

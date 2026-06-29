@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/406
+seq: 406
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得三角落一底子一十三箇加二即日數合問今有官司依平方招兵初段方面五尺此段方面轉多一尺每人日給米三升次日轉多三升已招二千四百四十人支米四千四百七十七碩三斗二升問招来幾日答曰一十五日術曰立天元一為三角底子如積求之得一萬四千二百七十四爲益實二百五十三爲従方三十九爲従㢘二爲従隅立方開之得三角底
+  hash: sha256:4d6d17f6a861e1cba45b2f40a06643544e4ab837a8e60c4b789c0721bb6aa8c4
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1e8a07ea51f3b69fb5c1911576fa107230bb810faa734537dbf8134e5288f8ff

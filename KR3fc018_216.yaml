@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/216
+seq: 216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寓燕松庭朱世傑漢卿編述臨川琴屋鍾燁叔明校正如意混和二問今有金毬銀毬玉毬各一隻共積三十二寸五萬五千二百六十四分寸之一萬一千三十一計重一稱一十斤一十一兩一十九銖一萬三千八百一十六分銖之二千二百九十五只云金圓周多如銀圎周一寸銀圎周却多玉圎
+  hash: sha256:e6ecf76056ae669932f8f12927485606f38149105755ae1ccd1f7df4cc444f94
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:725b5e6fb1c431dcf5fac035e20567781f8b3cf4059442963ff5e3de0c5820ad

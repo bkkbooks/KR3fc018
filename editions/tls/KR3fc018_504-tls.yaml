@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/504
+seq: 504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周相較之多四步又併中周二實徑四直斜一與二箇外周相較之少六步問直田長平各幾何答曰直田長七十步闊二十四步術曰如方程正負術入之左行得直田斜次行得實径次行得中周右行求外周又環積减共積餘為直積立天元一為闊如積求之得二百八十二萬二千四百為正實五千四百七十六為益上亷一為正隅三乘方開之得闊又立天元一為長如積求之得二百八十二萬二
+  hash: sha256:9642a2262f1c78bceae3234f53c5a3231f284798cdfdc6f43167ca46ba5906ba
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:44fd5de78688168b16eeeca92289079e339d72c70f8619ce84c040bc8ca7226d

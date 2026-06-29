@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中股幾何荅曰八步術曰立天元一為中股如積求之得一億三千三百四十四萬八千七百四為益實七百二萬三千六百一十六為益方八十四萬三千二百九十六為従上㢘二十七萬八千七百六十八為従二㢘五千三百七十一步七分五釐為従三㢘四百九十五為益下㢘四十九為益隅五椉方開之得中股合問今有句三股四八角田積以靣開案當做澖三自椉加之却闊
+  hash: sha256:2ef454be6dfcc009f3b92853cf37d6fc49ba8eb0266a03530032fc9cc52daa38
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5b41a8a8dd206f673f9335181b565cd09dd7ee18a39b2400f433b1ce08e3784c

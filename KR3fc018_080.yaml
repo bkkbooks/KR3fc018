@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益上廉二十七萬八千九百二十六為從三廉二萬二千八百六十八為益五廉一百八十一為從隅七乘方開之得句合問今有句弦和乘股弦和減句弦較乘股弦較餘七十步只云弦和和乘弦較和得七十二步問股幾何答曰四步術曰立天元一為股和積求之得一百六十七萬九千六百一十六為正實一十八萬六十六百二十四為益上廉六千四百七十九為從三
+  hash: sha256:8f6a35c55c17455a93033197b7cdf127ab65b36bb94413281605e9f568fdd74b
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:3e533a9d3797807b73c441bd9865a19a14da283e71fa08e23c43f22a3caec99e

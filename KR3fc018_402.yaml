@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/402
+seq: 402
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為三角底子如積求之得七千三百五十六為益實七十三為從方二十一為從廉二為從隅立方開之得三角底子一十二箇加二即日數銀求日數術日立天元一為三角落一底子如積求之得六萬四千八百九十六為益實二百三十六為從方九十五為從上廉一十六為從下廉一為從隅三乘方開之得三角落一底子一十二箇加二即日數合問今有官司依圎箭朿招兵朿外周一十二隻次朿外周轉多六隻每人日給米四升
+  hash: sha256:360b27fa37b2a6177859f088bdfd7c7a608ee752d1347e6e19954f575dbec905
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1f8129f7be282705643b4869502773d82164c2f21ff330d7225fd6fce2a18ed1

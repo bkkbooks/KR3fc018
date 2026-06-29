@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/338
+seq: 338
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰一十二朿術曰立天元一爲嵐峯底子如積求之得八萬八百八爲益實二爲従方九爲従上廉十爲従下廉三爲従隅三乘方開之合問今有茭草八千五百六十八朿欲令撒星更落一形埵之問底子幾何答曰一十四朿術曰立天元一爲撒星更落一底子如積求之得一百二萬八千一百六十爲積益實二十四爲從方五十爲従上㢘三十五爲從二㢘一十爲
+  hash: sha256:9b811cb9bc244f9228080a55b74821c618507b5770d4578768cd5e691b1d3c07
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:7f142ca4733f0b066ac987da67da260170688207ee0ba50ec5648c3f56ff7b54

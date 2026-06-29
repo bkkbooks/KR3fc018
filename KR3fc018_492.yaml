@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/492
+seq: 492
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰先以合分法求之次如方程正負術入之左行得米中行得麥右行得豆又三色斗價如前術求之得二貫八十八文即三色共價立天元一為米斗價如積求之得八百六十四為正實一十二為益方上實下法而一得米斗價七十二文又立天元一為麥斗價如積求之得七百六十八為正實一十二為益方開無隅平方而一得麥斗價六十四文又立天元一為豆斗價如積求之得五百五十二為益實一十二為從方上實下法而一得豆斗價合問
+  hash: sha256:dd89cd58c4674dfcf2dfc9658f801cf4144d164619ff3fc85fab3ad371dd5b95
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:abebc3a021b42f142a48d78d1bbabdcbc3bb2cf914cde09a6c4f8d6bf6cd2dd3

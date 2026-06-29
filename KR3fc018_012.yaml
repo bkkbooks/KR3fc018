@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加減鉤深致逺自成一家之書也方今尊崇算學科目漸興先生是書行將大用于世有能執此以往則古人格物致知之學治國平天下之道其在是矣有志于學者可不服膺此書云大德癸卯上元日臨川前進士莫若序
+  hash: sha256:d166fedfaf1526aea3bc3f3a362b2c9ac3f7c7c7a2806bb752f1f29dbf6301f5
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:dc0a174737e7fe590c520882b96d36eba34919dc7aa1db43197c4a2b72bcfcd5

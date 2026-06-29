@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得四十萬六千四百為益實五為傱方一為從隅平方開之得疋價合問今有紗一疋先截一尺作牙錢餘賣得錢一貫一百七十六文只云長尺價皆以平方開之二数相併共得一十二問疋長尺價各幾何答曰疋長二丈五尺尺價四十九文術曰立天元一為疋長開方数如積求之得一千三百二十為益實二十四為從方一百四十三為從上亷二十四為益下亷一為正隅三
+  hash: sha256:d3630723602f336fbc1649f802dde29bac0958359f62819ee211601c2395e17f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:4474a53b565a1de4fdb918d919f9c776f0ed02327e5ebf371111b629993675f9

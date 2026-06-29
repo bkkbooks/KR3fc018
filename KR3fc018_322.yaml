@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/322
+seq: 322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 板髙三尺無竒杆繩長短怎生知除演天元如積答曰杆長二丈七尺索長二丈六尺術曰立天元一為杆長如積求之得一百八為正實四為益方開無隅平方除之得杆長又立天元一為索長如積求之得一百四為正實四為益方上實下法而一合問或問六貫二百一十錢倩人去買幾株椽每株腳錢三文足無錢準與一株椽答曰椽四十六株株價一百三十五文
+  hash: sha256:7b2f28feb9e0089cdb52535150895686bd335d405bf7bf33530703e435bf64b1
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:51b083b1ef1f48ae84cfe3f0b95d0b3937de6f60bdaa96ce447f0aa0e107e669

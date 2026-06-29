@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左右內二得得行得外二行得內外相消四約之開方式三乘方開之得弦五步細草曰立元一為句地元一為股人元一為弦以地元減人元得股弦較天元乘地元股弦較與弦和和相句得直積乘之得消求得今式弦較乘與弦相消求併句羃句得較和得云式股羃與
+  hash: sha256:dc664a8346b301187d1c13c3e6ab9bc85d91563627212e91b5b9004c2e4f901c
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1cd207a4395505e33f06eccd1feb099d00c99591a9c86865e6e194af9800da65

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又立天元一為茭草底子如積求之得三百四十七萬三千五百三十六為正寔六十四萬四千三百六十為益方一萬七千五十六為從亷六百三為從隅立方開之合問方圓交錯九問今有方圓田各一叚圓從古法二積相乘得一萬五千五百五十二歩只云方田面除圓田周得三歩問方靣圓周各幾何答曰方靣一十二歩圎周三十六歩
+  hash: sha256:d24f748312da52c5769e698f9870634eaba87b8844d7d6f6dcbd24ef109ddf73
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:f153f479ddc98a31e40cd8f81d5fa7709d4f15165f330b6fff10a8da78cea4db

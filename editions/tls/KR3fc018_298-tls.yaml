@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/298
+seq: 298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬四千四百爲益實一爲正隅平方開之得一百二十歩倍之合問今有圓城不知髙遠立兩表各髙一丈二尺表問間相去八十尺令前表與後表參相直於前表退行六十尺人目薄地遙望乳頭與前表末參合又後從表退行一百尺人目薄地遙望乳頭與後表末參合問城髙及前表去城各幾何答曰城髙三丈六尺表去城一百二十尺術曰立天元一爲城髙如積求之得一千四百
+  hash: sha256:1b78fa8d7ee8acc6b65f42dc503fe0216216e1ab1f9b10e9df144a9d36b5b144
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:1518b151dcdabe6b1859d19fd317faedcb7da30ba9bafb417c44270a69e14006

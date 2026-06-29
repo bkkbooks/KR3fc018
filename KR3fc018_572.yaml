@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/572
+seq: 572
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為平地元一為長天地配合求之得八十一為正實四十五為從方三為從亷一為益隅立方開之得平合問今有直積及加和各以平方開之所得相併减平餘八步只云長以平方開之少如和開方數一步問長平各幾何答曰平九步長一十六步術曰立天元一為平地元一為和開方數天地配合求之得二百二十五為正實一百九十六為益方二十六為益上亷四為益下亷一為正
+  hash: sha256:b061f90cd0f24ac074134425da3f332c5b8f8a54b1ba21efda91f634a01183eb
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:43e4d2fb16c6ad98a4778aa68ffc99cb9ee731615cdf53d4ce35a26b3b8e1e35

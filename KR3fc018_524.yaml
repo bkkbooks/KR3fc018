@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/524
+seq: 524
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為本錢如積求之得三千二百三十六萬六千二百五十為正實一萬一千三百七十九為益方一為正隅平方開之即本錢餘依法求之合問今有錢八貫六百一十二文巳令五人分之只云乙如甲五分之三丙不及乙一貫八百八十文併甲丙以乙除之所得與戊同丁少如丙七百九十文問各分幾何答曰甲四貫七百文乙二貫八百二十文
+  hash: sha256:d6e67bf217ebbff6ff2034f14b3ae367451616b44afe8ee3fd3ad1a6769e0386
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a58b48780f806b0c8480137d81802e530806017384c5016d30ee7fef2b4b84cf

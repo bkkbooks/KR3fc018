@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 廉九為益隅立方開之得長合問今有積加長以半平乘之得一千九百五十步只云長五分之三減平三分之二餘七步問長平各幾何答曰平一十二步長二十五步術曰立天元一為長如積求之得一十三萬為益實三千三百二十五為從方六百為益廉二十七為從隅立方開之得長合問今有積加三較以長乘之減三平餘九千七百四十四步只云長取太半平取弱半為
+  hash: sha256:c076fd05ca25b0862b516f81d8baa23b6711d51d01b2f6291b3dc8bd69136140
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:0dc013280291e05d47a70941310b454564f8d0e9f1a810f84bbc59f5e4f8732e

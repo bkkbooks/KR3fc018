@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/296
+seq: 296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為城之半圓徑如積求之得三十六萬為正實六萬六千為從方二千四百為從上亷一為益隅三乘方開之得半圓徑六千步倍而三之即城周也合問今有方城不知大小各中開門北門外九十步有郵亭一所人於城中出西門外行一百六十步却遙望參城隅見亭問城方幾何答曰二百四十步術曰立天元一為城之半方面如積求之得一
+  hash: sha256:fe3afc8192fa4fcd45df66178c2abe906d46af97f12fd952c368481addbee8b6
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:71f4fa2358849f69367c985e7719aea0239ea75dbfa81b8691774584722995b5

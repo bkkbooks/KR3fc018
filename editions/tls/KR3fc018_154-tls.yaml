@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為倉長如積求之得二千一百六十為益實九為從方六為益亷一為正隅立方開之得倉長合問今有圓囤貯粟三百六十四斛五分斛之四只云上周如下周太半髙如下周少半問周髙各幾何答曰上周二丈四尺下周三丈六尺髙一丈一尺術曰立天元一為上周如積求之得一萬三千八百二十四為益實一為正隅立方開之得
+  hash: sha256:2cb8474b476230a4f17958edb2055d7c4624607ea6599b93ed57e88cd3aee78a
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:c87986ca25ab18c8af1cdba4be9775c2214631852e5bdd867976b8979eb65846

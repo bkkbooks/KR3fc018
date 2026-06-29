@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/182
+seq: 182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下袤三丈六尺髙二又四尺二大弧積七千七百二十尺徒二百八十五人二十七分人之二十五二小弧積二千七百二尺徒一千二百人二十七分人之二術曰立天元一為䑓上廣如積求之得一萬八千七百七十四為益實七百二為益方三百九十一為從上亷三十六為益下亷一為正隅三乗方開之得上廣餘依加减求之求二大弧積術曰上廣减扵上弦余半之為上两邊各補之廣上袤內加補廣為上邊各補之長又下廣减扵下弦余半之為下两邊各補之廣下袤內加補廣為下两邊各補
+  hash: sha256:4532020f26f6f7a3d70bac9455beb3001d895c103b3b57a0d983069cfa617d6f
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:5c06bcb4669a50dbd06aadf0ae396321bd678715f0c97948baa433afc8da2ed8

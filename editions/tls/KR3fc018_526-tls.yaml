@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/526
+seq: 526
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙九百四十文丁一百五十文戊二文術曰立天元一為一分之率如積求之得九百四十為益實一萬九千七百三十九為益方二十一為從隅平方開之得九百四十文為一分之率合問今有木圎毬一隻徑一尺八寸欲令漆之先用布䪌布闊二尺問用布長幾何答曰三尺六寸二十分寸之九術曰立天元一為布長如積求之得七尺二寸
+  hash: sha256:b7376e308e8d05260e470fc3e096486d4847e4fd0a3e2f18094f6b8b028d2aa6
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:7eccddb536a7506f56ee7c0dae095a001c864326c07c1175ccd2ca7843f4efbb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 髙等又囤徑取中半自乘加三尺却與倉深同倉方多扵囤徑二尺問倉囤髙深方徑各幾何答曰倉方一丈深一丈九尺圓徑八尺髙一丈八尺術曰立天元一為倉半方面如積求之得一萬二千二十五為益实二百一十為從方二十六為益上亷六十二為益下亷三十一為從隅三乗方開之得半方倉面合問今有粟一千九十六斛八斗用倉囤各一貯之不
+  hash: sha256:86259061ec0bcdc305bd3d07741b0f9a1d0b119be7083d3ba72effebf3300743
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:6c077e562d58c462bb20c5d6ab106d1748b74cb3dc974d26535d45ca67438e1f

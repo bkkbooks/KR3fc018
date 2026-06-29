@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/624
+seq: 624
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃帝九章以降算經多矣不可枚舉唐宋設明算科立法取士不出九章周髀海島孫子張丘建夏侯陽五曹五經算緝古綴術數家而巳然天地人物四元罔有云及一者厥後平陽蔣周撰益古博陸李文一撰照膽底泉石信道撰鈴鈴經平水劉汝諧撰如積釋鎖絳終人元裕細草之後人始知有天元也丰陽李德載因撰兩儀群英集臻兼有地元霍山邢先生頌不髙弟劉大鑑潤夫撰乾坤括囊末僅有人元二問吾友
+  hash: sha256:610fad50c12571a22dd1a6f83d135255cd5d9ad3a94da8ced021e5aee401b71d
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:7d2a423e678acc22231c89afb30ce30f0f7dd1e8b8d0eb63ad23f4e0105eee62

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百六十二為益實一為益方一為正隅平方開之得尺價合周問今有錦一端直錢四貫八十文只文云併尺價端長為共以尺價乘之加端長共得一十一貫三百五十三文問各幾何答曰端長四尺丈八尺尺價八十五文術曰立天元一為端長如積求之得一千六百六十四萬六千四百為益實七千二百七十三為従亷一為益隅立方開之得端長合問今有錦一端一匹端長自乘內减匹長又匹長自
+  hash: sha256:73fe9e0b033a3da7bef3212bf768936b986d75f3969204ba057306ee4f2fef39
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:2a4bc7652c9f8e2577c3cf69f4a1dbe64b45b5627d2b6bfc27668e978ec0ec40

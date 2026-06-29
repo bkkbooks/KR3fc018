@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/398
+seq: 398
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之以通徑除之所得為輞外周弦差以減外周餘即通弦內減池弦餘半之即慱徑合問如像招數五問今有官司差夫一千八百六十四人築堤只云初日差六十四人次日轉多七人每人日支米三升共支米四百三石九斗二升問築堤幾日答曰一十六日術曰立天元一為茭草底子如積求之得一千八百為益實六十七半為從方三半為從隅平
+  hash: sha256:288efda026ba422e4615217ee996cc74ef7c054b48eb39c7512b3110d6932d7c
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:afb15fa977f0b0a05ab32fa0ddc3456cb4b9363b3884ef44a78d0502e6b8c428

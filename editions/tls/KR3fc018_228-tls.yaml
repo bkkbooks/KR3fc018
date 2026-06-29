@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隅立方開之即得方箭外周又立天元一為圎箭外周如積求之得二千二百二十萬六千五百二十八為正實三百四十七萬五千五百三十六為益方一十五萬七千一百二十四為従亷一千八百九為益隅立方開之得圎箭外周又立天元一為平圎径如積求之得九億五千二百一十萬四千八百八十八為正實四千二百五十七萬五千三百一十六為益方五十四萬九千九百三十四為従亷一千八百九為益隅立方開之得平圎径又立天元一為
+  hash: sha256:441c95e9fc0bd075b697dcc0adddcbbe0017b4fe2d487fc3af9379d9d9b36303
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:8f7b0951f579368d54d91c530cb7303b4b7663e49542a5ec89854b996aa271ba

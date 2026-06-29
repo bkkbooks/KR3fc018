@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR3fc018/bkk/v1/markers/16
+seq: 16
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc018_tls_001-p5.s3}
+  - {type: line-break, offset: 0, content: '', id: KX_3_dup4, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 3, original: 椉, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0939}}
+  back: []
+hash: sha256:73cfaaec7a11109aefb43210537e1961e2da81ed9e16fcf83c3cfcfd46c67dd4

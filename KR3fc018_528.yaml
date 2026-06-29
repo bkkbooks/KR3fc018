@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/528
+seq: 528
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九分為益實二尺為從方上實下法而一即長今有立方面五尺問東南上角直至西北下角長幾何答曰八尺六寸一百七十三分十之四術曰立天元一為針長如積求之得七十四為當作十五益實一為正隅平方開之不盡命分合問今有圎材徑三尺只云鋸深三寸問鋸道長幾何答曰一尺八寸術曰立天元一為鋸道長如積求之得三百二十四為益實一為正隅平方開之合問
+  hash: sha256:a4721f744a36c06bb628db9b5055240cda7b57c41a090fcbd54186b5c0479460
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:54ff0de4524ae732ea36268a85d614f8b74c16f739259b5a7f3a79de0168b6ee

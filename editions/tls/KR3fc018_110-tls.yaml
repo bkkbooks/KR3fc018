@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰立天元一為股如積求之得九萬七千四百四十為正實八千三百為従方四百六十七為益上㢘二十六為益下㢘一為正隅三椉方開之得股合問今有梯田積加小闊減大闊餘以小闊椉之得四千一百五十二步只云大闊不及正長九步却多少小闊四步問二闊及長各幾何答曰大闊一十六步小闊十二步正長二十五步
+  hash: sha256:d30a53b1d1e13209b883210225aa337b156adfb3b3925cf8ea6cc36466a8e725
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:a58891c2f53441aa0019e8c8616ddff5a9e0ed24bb44dc8dc0388e53d38f066b

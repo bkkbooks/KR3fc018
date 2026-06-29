@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/562
+seq: 562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰平三步長四步術曰立天元一為平地元一為長天地配合求之得六十三為正實一十八為益方一十六為益上亷二為從下亷一為正隅三乘方開之得平合問今有直積加一長二平共得二十二步只云長羃加平减較羃餘一十八步問長平各幾何答曰平三步長四步術曰立天元一為平地元一為長天地配合求
+  hash: sha256:7a75da562bff5ecbc9fa3e100aadb35f6a8a3dde20ff00592a56ae71b43ef1a7
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:975ab5e3c75213f0621b87ae50f9b425d753758138f3f4681da43c84469556ce

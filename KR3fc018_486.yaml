@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/486
+seq: 486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匹長不及紬匹長二尺却多錦匹長一尺問三色用絲及匹法各長幾何答曰錦二丈五尺絲三十五兩綾二丈六尺絲二十八兩紬二丈八尺絲二十三兩術曰立方程正負術入之得三色每匹用絲之數立天元一為錦匹長如積求之得三十五萬八千八百二十五為益實三為從方一為益上亷二為益下亷一為正隅三乘方開之得錦
+  hash: sha256:07194361ebbacd7a903a2260ba78164dc01944f61f5717e6caf0d3c5aeba8096
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:d1ef8a20794e240e4d415f281c9fb53b342d75e84244c6a6c7945dbe14220192

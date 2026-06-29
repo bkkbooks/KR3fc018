@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc018/tls/v1/juan/464
+seq: 464
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即外田靣闊合問今有圎田一段被水侵入二弧其大弧弦長二十四步小弧弦長一十八步問大小二弧矢各幾何答曰大弧矢六步小弧矢三步術曰立天元一為大弧矢如積求之得一百四十四為益實三十為從方一為益隅平方開之得大弧矢又立天元一為小弧矢如積求之得八十一為正義實三十為益方一為正隅平方開之得小弧矢合問
+  hash: sha256:7e6e401f163f90ea21a5ccf633675b59ee5595bc3653bbf67ec9402ff50f4527
+metadata:
+  title: 新編四元玉鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc018.xml
+hash: sha256:030c0949c465a60867472bfe40879d6e00e2c44553bd0ef1b4457861fa63bd12
