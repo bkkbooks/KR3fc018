@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 答曰周九十九步徑五十一步術曰立天元一為先開方數如積求之得三萬三千八百三十一為益實四百二十為從方二百一十四為益上廉七十四為從下廉一為益隅三乘方開之得九步為先開方數合問今有毬露錢田積加靣徑減圎周餘五十六步只云虛徑多如靣徑二步問三徑各幾何答曰靣徑四步虛徑六步
-  hash: sha256:fa68b21c849982ce1ea39bdb0b749a02715aa22dfde4ebfea1a29fb9111efcda
+  text: 荅曰周九十九步徑五十一步術曰立天元一為先開方數如積求之得三萬三千八百三十一為益實四百二十為従方二百一十四為益上㢘七十四為従下㢘一為益隅三椉方開之得九步為先開方數合問今有毬露錢田積加靣徑減圎周餘五十六步只云虚徑多如靣徑二步問三徑各幾何荅曰靣徑四步虚徑六步
+  hash: sha256:27094e8310eca32253d9b023c9f67d8d4b5373baca74286b4f84c4c7c0f43e1f
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:71022a68bffa05d3a0d16977897fa8a5fd4a4eb60f94b18b71972af80bcec47e
+hash: sha256:afeb99e1fc2e4e5c6eea10738d610a57afb93efa6ab1a09b4b4e1b2b4cd36dad

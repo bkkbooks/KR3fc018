@@ -7,7 +7,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_12_dup87, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 10, content: '', id: KR3fc018_tls_001-p98.s13}
   - {type: line-break, offset: 10, content: '', id: KX_13_dup86, _xml_error: duplicate-id, _xml_original_id: KX_13}
-  - {type: substitution, offset: 28, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4395}}
   - {type: 'tls:seg', offset: 29, content: '', id: KR3fc018_tls_001-p98.s14}
   - {type: line-break, offset: 29, content: '', id: KX_14_dup86, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc018_tls_001-p98.s15}
@@ -22,9 +21,7 @@ markers:
   - {type: line-break, offset: 88, content: '', id: KX_19_dup86, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fc018_tls_001-p98.s20}
   - {type: line-break, offset: 99, content: '', id: KX_20_dup86, _xml_error: duplicate-id, _xml_original_id: KX_20}
-  - {type: substitution, offset: 105, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fc018_tls_001-p98.s21}
   - {type: line-break, offset: 117, content: '', id: KX_21_dup79, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 125, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   back: []
-hash: sha256:ca95014106fa6adfcfcd952acd9f63fa150d06f42c31f3f9be3ef1586087c2ac
+hash: sha256:e14f06e736e9b5565479ba29285a047f8b64c412d2d71920082d5c1037c55c39

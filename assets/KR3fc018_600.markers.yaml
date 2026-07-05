@@ -7,10 +7,8 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_13_dup140, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc018_tls_001-p153.s14}
   - {type: line-break, offset: 14, content: '', id: KX_14_dup140, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 17, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fc018_tls_001-p153.s15}
   - {type: line-break, offset: 28, content: '', id: KX_15_dup140, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 40, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc018_tls_001-p153.s16}
   - {type: line-break, offset: 42, content: '', id: KX_16_dup140, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3fc018_tls_001-p153.s17}
@@ -25,6 +23,5 @@ markers:
   - {type: line-break, offset: 107, content: '', id: KX_21_dup133, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: 'tls:seg', offset: 114, content: '', id: KR3fc018_tls_001-p153.s22}
   - {type: line-break, offset: 114, content: '', id: KX_22_dup2, _xml_error: duplicate-id, _xml_original_id: KX_22}
-  - {type: substitution, offset: 124, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   back: []
-hash: sha256:61c61c217935c5812cf9914bbab848a10ca6d650a456896b107b21026c296188
+hash: sha256:8bac340bb1ebd9ec13575dc8cfd77936b0743f8a71d053ff8d26f54c2a7d4286

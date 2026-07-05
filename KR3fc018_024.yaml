@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 凡句股之術出于圎方圎徑一而周三方徑一而匝四伸圎之為句展方之為股共結一角斜弦適五句股之所生也今言五和者句股和句弦和股弦和弦和和弦較和併之得四十二步自乘得一千七百六十四步共為二十五段也
-  hash: sha256:aaa09f8c66e9c724d48cb7a3594d4c9f03e7b7a5da8534f0ba3d9b802a231bb8
+  text: 凡句股之術出扵圎方圎徑一而周三方徑一而匝四伸圎之為句展方之為股共結一角斜弦適五句股之所生也今言五和者句股和句弦和股弦和弦和和弦較和併之得四十二步自椉得一千七百六十四步共為二十五段也
+  hash: sha256:3788e25f0f2f08cf600fd7c0751c5a57f2bed1b7dcf73183dca8535e17e9c2fa
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:24d803c6d0666c8fd43172b770c0cf745037f028060061d5d6f5e04ff50b5aa8
+hash: sha256:c2b7466ed3809d23be6cddd111b259680955660ce0ab04e9f6930fe44113d65b

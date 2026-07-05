@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 凡皆四元者以明理為務必達乘除升降進退之理乃盡性窮源之學也僕立句三股四弦五黃方二為問併之得自乘為羃得共計一十六段計羃一百九十六步此式考圗認之其理顯然
-  hash: sha256:a0325d013dc379e269e96729498ab43bff9d7c75f76f74603a69f4877965d1d1
+  text: 凡皆四元者以明理為務必達椉除升降進退之理乃盡性窮源之學也僕立句三股四弦五黄方二為問併之得自椉為羃得共計一十六段計羃一百九十六步此式考圗認之其理顯然
+  hash: sha256:20c8824c8fd64d643c662fe25c96a4dc7d74c5a18153b35196f28f3666b2a9f2
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:e74925f68a83c18f9695ed0edd96334b92c42444c2f7c777da73fc056c328122
+hash: sha256:60fa9338753829555d6d1f7dda3a98d41b0625d614c2ed8f85ff77069c8a5372
