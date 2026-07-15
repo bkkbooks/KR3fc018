@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 丙戌八月旣望南昌萬立銜讀過
-  hash: sha256:02866f8fd95c42ab824158a4724867405e351cb588db8276fce5af2362bb5884
+  text: 丙戌八月既望南昌萬立銜讀過
+  hash: sha256:f0259cddf3bac9fc747d6d7b00f376f087a38dc77031f836d0ca8e9c3cc350ae
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:e121b90ee807670bfe37ae7f1d32535f0d6ee462d4fe90994a3d2b705393934d
+hash: sha256:ee6ff195589663827f3be129830baef2146f2f6c5b00e3dfd44d41803bb4c42a

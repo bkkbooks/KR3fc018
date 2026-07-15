@@ -9,8 +9,11 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KX_2_dup136, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 36, content: '', id: KR3fc018_tls_001-p140.s3}
   - {type: line-break, offset: 36, content: '', id: KX_3_dup139, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 41, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20675}}
+  - {type: substitution, offset: 48, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20675}}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc018_tls_001-p140.s4}
   - {type: line-break, offset: 54, content: '', id: KX_4_dup139, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 56, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fc018_tls_001-p140.s5}
   - {type: line-break, offset: 62, content: '', id: KX_5_dup138, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fc018_tls_001-p140.s6}
@@ -23,5 +26,6 @@ markers:
   - {type: line-break, offset: 107, content: '', id: KX_9_dup131, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 125, content: '', id: KR3fc018_tls_001-p140.s10}
   - {type: line-break, offset: 125, content: '', id: KX_10_dup122, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 126, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20675}}
   back: []
-hash: sha256:8f544dd9326338705c1e9df70e66a7a92495b118130c138b1fc05eebd0ada525
+hash: sha256:8ad1939270edb76c376b80b771dac3f491c3b8d06fe6cc9b5420c5b000f3a5a5

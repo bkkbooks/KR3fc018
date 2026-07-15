@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 五和自椉演段之圗
-  hash: sha256:e45dfdfa06e53c9607b66de9b8487243160f84344dd7258f3de4952f0d7177e1
+  text: 五和自乘演段之圗
+  hash: sha256:93d8c7905d39f059a9d5bfb34fd9352488371c41d8a4b375d1aabd45f4f33290
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:9a2c4283873452187390915a3a12aa14503f517fe9449e496a664e64c5f8ddfc
+hash: sha256:6dddd115e972deff50e5eb6b81f9c465ca0c70b533d2dd60bdcb876448aad52d

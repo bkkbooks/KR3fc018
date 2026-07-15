@@ -22,7 +22,9 @@ markers:
   - {type: punctuation, offset: 79, content: ○, id: KR3fc018_tls_486-bkkpn1}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fc018_tls_001-p125.s9}
   - {type: line-break, offset: 95, content: '', id: KX_9_dup116, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 108, original: 从, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16212}}
   - {type: 'tls:seg', offset: 113, content: '', id: KR3fc018_tls_001-p125.s10}
   - {type: line-break, offset: 113, content: '', id: KX_10_dup107, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 125, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   back: []
-hash: sha256:3c1023923b0ad53d128020ad2733d49ed18cb4a288e3496d2d85aa60aed28c50
+hash: sha256:6da6fe80f2233616fde18a1b8e9deb5c4fea36e1ab74e811516d588577f88e9f

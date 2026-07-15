@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 上亷一爲従隅三乗方開之合問今有直積一百二十歩只云弦較較乗弦和較得六十歩問黄方幾何答曰六歩術曰立天元一爲黄方如積求之得三十六爲益實一爲従隅平方開之合問今有直積一百六十八歩只云句弦較乗弦和較得一百八歩問句弦較幾何答曰一十八歩術曰立天元一爲句弦較如積求之得一萬四
-  hash: sha256:6ec7778cdd8cc0a5a69c54af727dd5b8ea5b9044f86c3876d2756ceb205c86eb
+  text: 上亷一為從隅三乘方開之合問今有直積一百二十步只云弦較較乘弦和較得六十步問黃方幾何答曰六步術曰立天元一為黃方如積求之得三十六為益實一為從隅平方開之合問今有直積一百六十八步只云句弦較乘弦和較得一百八步問句弦較幾何答曰一十八步術曰立天元一為句弦較如積求之得一萬四
+  hash: sha256:cb6cbfdc7578284737c0f3943ef9422782fc9e3b731895b2b823bccfbf6b12f0
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:38bf86a6f559feab6817d9d2a0d1b9bed3ce4aeb629cc711855bdccfe79e9d3f
+hash: sha256:02349cf4f4593cfa5a5460e2d8add0f841caffce9a5a89a199318abd5dcb0eb8

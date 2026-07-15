@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 希世之珍自果積疊藏八門未立细草而先生已補荊溪廣文扵癸未六月七日南旋開卷為憮近董方立治此書惜又作大朱氏四元玉鑑昌平王氏臧本仁龢龑自珍敬題
-  hash: sha256:17259c52f83d9a98d0452c97876db864474868bbfac83dc2b66ea021d3f97c87
+  text: 希世之珍自果積疊藏八門未立細草而先生已補荊溪廣文于癸未六月七日南旋開卷為憮近董方立治此書惜又作大朱氏四元玉鑑昌平王氏臧本仁和龑自珍敬題
+  hash: sha256:7f3645da66843afb91339349f4ae98e00693cdb99521fc60288bf45ea71c6dcb
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:dcb3bb9edd28adf249d6a6b2675c89cf5e1ad2b59b3f548e4d6a207e21f0ee04
+hash: sha256:5ef38bbade20284c93524bda0d0d06c104d9aabfa989b01118fcf51fbde681d4

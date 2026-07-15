@@ -5,14 +5,21 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc018_tls_001-p52.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup48, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 6, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20675}}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fc018_tls_001-p52.s2}
   - {type: line-break, offset: 17, content: '', id: KX_2_dup48, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fc018_tls_001-p52.s3}
   - {type: line-break, offset: 24, content: '', id: KX_3_dup51, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 28, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 31, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 36, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 39, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc018_tls_001-p52.s4}
   - {type: line-break, offset: 43, content: '', id: KX_4_dup51, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3fc018_tls_001-p52.s5}
   - {type: line-break, offset: 46, content: '', id: KX_5_dup50, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 49, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 52, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fc018_tls_001-p52.s6}
   - {type: line-break, offset: 55, content: '', id: KX_6_dup48, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3fc018_tls_001-p52.s7}
@@ -21,7 +28,9 @@ markers:
   - {type: line-break, offset: 91, content: '', id: KX_8_dup44, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fc018_tls_001-p52.s9}
   - {type: line-break, offset: 97, content: '', id: KX_9_dup43, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 104, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 109, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fc018_tls_001-p52.s10}
   - {type: line-break, offset: 117, content: '', id: KX_10_dup37, _xml_error: duplicate-id, _xml_original_id: KX_10}
   back: []
-hash: sha256:817fb39fc9582a9eb1f586cb2ab66a7b419a9eb74997d3bcc386ceefe84ec5a7
+hash: sha256:8aeaf6f3c259c6c9aa7dabb2c683aed709d3b1a0d519e5b5f9df6bf26ca8980e

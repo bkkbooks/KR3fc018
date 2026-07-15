@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 問今有積幂減二長一平餘四萬六千五百七十八步只云平自椉與長等問長平各幾何荅曰平六步長三十六步術曰立天元一為平如積求之得四萬六十五百七十八為益實一為益方二為益上㢘一為正隅五椉方開之得平合問今有積加一長二平三和四較自椉減一和二較三平四長餘一十五萬五千八百五
-  hash: sha256:1a25df187cea181dbbef9456420df1aa4dcf5e2b1cf040308da2e4061d524bfb
+  text: 問今有積幂減二長一平餘四萬六千五百七十八步只云平自乘與長等問長平各幾何答曰平六步長三十六步術曰立天元一為平如積求之得四萬六十五百七十八為益實一為益方二為益上廉一為正隅五乘方開之得平合問今有積加一長二平三和四較自乘減一和二較三平四長餘一十五萬五千八百五
+  hash: sha256:c0c7cd4b3ebd08b0c592ebca9927bc4d4f302f1ab907c6cffa8aba5c52d69b3a
 metadata:
   title: 新編四元玉鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc018.xml
-hash: sha256:bdf2c054616acece1a95d6216f0f418c6512cd26e55a0d8459c0243afcb7bde9
+hash: sha256:1c25333acb55775c676dd0dd20748b4cb4263ffdb605c08f7ad9e95c0a2c9970
